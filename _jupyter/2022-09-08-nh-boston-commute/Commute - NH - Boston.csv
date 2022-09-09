@@ -1,0 +1,101 @@
+date,depart_time,travel_time_min,travel_time_max,color,route
+2022-09-12,5:00 AM,1h25,1h50,green,route 3
+2022-09-12,5:00 AM,1h40,2h10,green,93
+2022-09-13,5:00 AM,1h40,2h20,green,93
+2022-09-13,5:00 AM,1h30,2h20,green,route 3
+2022-09-14,5:00 AM,1h30,2h,green,route 3
+2022-09-14,5:00 AM,1h40,2h20,green,93
+2022-09-15,5:00 AM,1h25,2h,green,route 3
+2022-09-15,5:00 AM,1h30,2h10,green,93
+2022-09-16,5:00 AM,1h25,1h50,green,route 3
+2022-09-16,5:00 AM,1h30,2h,green,93
+2022-09-16,5:30 AM,1h30,2h,green,route 3
+2022-09-16,5:30 AM,1h30,2h,green,93
+2022-09-15,5:30 AM,1h40,2h20,green,route 3
+2022-09-15,5:30 AM,1h40,2h20,green,93
+2022-09-14,5:30 AM,1h40,2h20,green,route 3
+2022-09-14,5:30 AM,1h40,2h30,orange,93
+2022-09-13,5:30 AM,1h40,2h30,green,route 3
+2022-09-13,5:30 AM,1h40,2h40,orange,93
+2022-09-12,5:30 AM,1h30,2h10,green,route 3
+2022-09-12,5:30 AM,1h40,2h10,green,93
+2022-09-12,6:00 AM,1h30,2h10,green,route 3
+2022-09-12,6:00 AM,1h40,2h20,green,93
+2022-09-13,6:00 AM,1h40,2h50,orange,route 3
+2022-09-13,6:00 AM,1h50,3h,orange,93
+2022-09-14,6:00 AM,1h40,2h40,orange,route 3
+2022-09-14,6:00 AM,1h40,2h40,orange,93
+2022-09-15,6:00 AM,1h40,2h30,orange,route 3
+2022-09-15,6:00 AM,1h40,2h40,orange,93
+2022-09-16,6:00 AM,1h30,2h,green,route 3
+2022-09-16,6:00 AM,1h30,2h10,green,93
+2022-09-16,6:30 AM,1h30,2h10,green,route 3
+2022-09-16,6:30 AM,1h30,2h10,green,93
+2022-09-15,6:30 AM,1h40,2h40,orange,route 3
+2022-09-15,6:30 AM,1h50,2h50,orange,93
+2022-09-14,6:30 AM,1h50,2h50,orange,route 3
+2022-09-14,6:30 AM,1h50,3h,orange,93
+2022-09-13,6:30 AM,1h50,3h,orange,route 3
+2022-09-13,6:30 AM,1h50,3h,red,93
+2022-09-12,6:30 AM,1h40,2h20,green,route 3
+2022-09-12,6:30 AM,1h40,2h30,orange,93
+2022-09-12,7:00 AM,1h40,2h20,green,route 3
+2022-09-12,7:00 AM,1h40,2h30,orange,93
+2022-09-13,7:00 AM,1h50,2h50,red,93
+2022-09-13,7:00 AM,1h50,2h50,red,route 3
+2022-09-14,7:00 AM,1h50,2h50,orange,93
+2022-09-14,7:00 AM,1h50,2h50,orange,route 3
+2022-09-15,7:00 AM,1h50,2h40,orange,route 3
+2022-09-15,7:00 AM,1h50,2h40,orange,93
+2022-09-16,7:00 AM,1h30,2h10,green,route 3
+2022-09-16,7:00 AM,1h30,2h10,green,93
+2022-09-16,7:30 AM,1h30,2h,green,93
+2022-09-16,7:30 AM,1h30,2h10,green,route 3
+2022-09-15,7:30 AM,1h40,2h30,orange,93
+2022-09-15,7:30 AM,1h40,2h30,orange,route 3
+2022-09-14,7:30 AM,1h50,2h40,orange,93
+2022-09-14,7:30 AM,1h50,2h40,orange,route 3
+2022-09-13,7:30 AM,1h50,2h40,orange,93
+2022-09-13,7:30 AM,1h50,2h40,orange,route 3
+2022-09-12,7:30 AM,1h40,2h20,green,93
+2022-09-12,7:30 AM,1h40,2h20,green,route 3
+2022-09-12,8:00 AM,1h40,2h10,green,93
+2022-09-12,8:00 AM,1h40,2h10,green,route 3
+2022-09-13,8:00 AM,1h40,2h30,orange,93
+2022-09-13,8:00 AM,1h40,2h30,orange,route 3
+2022-09-14,8:00 AM,1h40,2h30,orange,route 3
+2022-09-14,8:00 AM,1h40,2h30,orange,93
+2022-09-15,8:00 AM,1h40,2h20,orange,93
+2022-09-15,8:00 AM,1h40,2h20,orange,route 3
+2022-09-16,8:00 AM,1h30,2h,green,93
+2022-09-16,8:00 AM,1h30,2h10,green,route 3
+2022-09-16,8:30 AM,1h30,2h,green,93
+2022-09-16,8:30 AM,1h30,2h10,green,route 3
+2022-09-15,8:30 AM,1h40,2h10,green,route 3
+2022-09-15,8:30 AM,1h40,2h10,green,93
+2022-09-14,8:30 AM,1h40,2h20,green,route 3
+2022-09-14,8:30 AM,1h40,2h10,green,93
+2022-09-13,8:30 AM,1h40,2h20,green,route 3
+2022-09-13,8:30 AM,1h40,2h20,orange,93
+2022-09-12,8:30 AM,1h30,2h,green,93
+2022-09-12,8:30 AM,1h30,2h10,green,route 3
+2022-09-12,9:00 AM,1h30,2h,green,93
+2022-09-12,9:00 AM,1h30,2h10,green,route 3
+2022-09-13,9:00 AM,1h30,2h10,green,route 3
+2022-09-13,9:00 AM,1h40,2h10,green,93
+2022-09-14,9:00 AM,1h30,2h10,green,route 3
+2022-09-14,9:00 AM,1h40,2h10,green,93
+2022-09-15,9:00 AM,1h30,2h10,green,route 3
+2022-09-15,9:00 AM,1h40,2h10,green,93
+2022-09-16,9:00 AM,1h30,2h,green,93
+2022-09-16,9:00 AM,1h30,2h10,green,route 3
+2022-09-16,9:30 AM,1h30,2h,green,93
+2022-09-16,9:30 AM,1h30,2h10,green,route 3
+2022-09-15,9:30 AM,1h40,2h10,green,93
+2022-09-15,9:30 AM,1h30,2h10,green,route 3
+2022-09-14,9:30 AM,1h40,2h10,green,93
+2022-09-14,9:30 AM,1h30,2h10,green,route 3
+2022-09-13,9:30 AM,1h40,2h,green,93
+2022-09-13,9:30 AM,1h30,2h10,green,route 3
+2022-09-12,9:30 AM,1h30,2h,green,93
+2022-09-12,9:30 AM,1h30,2h10,green,route 3
