@@ -13,6 +13,6 @@ echo "Moving ${nb%.ipynb}_files to ~/github/cduvallet.github.io/images/${file_fo
 mv ${nb%.ipynb}_files ~/github/cduvallet.github.io/images/${file_folder}
 
 # Make the file names work - replace any instance of ![png]( with ![png](../images/
-sed -i .bak 's:\!\[png\](:\!\[png\](..images\/:' ~/github/cduvallet.github.io/_posts/${markdown_file}
+sed -i .bak 's:\!\[png\](:\!\[png\](\/images\/:' ~/github/cduvallet.github.io/_posts/${markdown_file}
 # Remove the backup sed made
 rm ~/github/cduvallet.github.io/_posts/${markdown_file}.bak
