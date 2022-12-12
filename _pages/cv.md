@@ -19,6 +19,26 @@ James Bowie High School, Austin, TX (2009)
 
 ***
 
+# Professional Experience
+
+**Biobot Analytics** (2019-present)  
+_Founding Staff Data Scientist (Nov 2022 - present)  
+Founding Technical Lead, Data Science (Dec 2021 - Nov 2022)  
+Senior Data Scientist (Mar 2021 - Dec 2021)  
+Data scientist (Jul 2019 - Mar 2021)_  
+
+As an early employee of Biobot Analytics, I've worn many hats and done many things:
+
+- **Data science**: Analyze SARS-CoV-2 and opioid data from thousands of wastewater samples to gain public health insight (pandas, geopandas, scikit learn, scipy). Build data visualizations to communicate data concisely (matplotlib, seaborn, geopandas, altair). Work with other data scientists to build and launch data science features that make wastewater data more interpretable and actionable.
+- **Technical leadership**: Define data science priorities and lead a team of internal data scientists, consultants, and academic collaborators to build statistical models to interpret SARS-CoV-2 and opioid metabolite concentrations in sewage. Work with company leadership to develop Biobot's data science strategy and roadmap.
+- **Science communication & customer success**: Communicate Biobot's science through customer webinars, blog posts, and academic publications. Support customer success team to answer customers' technical questions.
+- **People management & team building**: manage teams of 1-2 junior data engineers, 3-4 senior data scientists, and 2-3 junior data analysts. Establish consistent and successful hiring processes, and build the data science organization from 1 person to over 15 across three subteams. Establish & foster a positive and collaborative working culture.
+- **Data engineering**: Design and build data processing pipelines (Python, snakemake, bash, Jenkins) to convert lab results into customer pdf reports. Collaborate with senior software engineers to migrate legacy pipelines to cloud-hosted infrastructure (AWS, lambda).
+- **Technical architecture and design**: Design, build, and manage Biobot's database and processes (Airtable, zapier) supporting all company needs related to ordering, customer metadata, laboratory, and data management. Work with software engineering, product, and project management teams to migrate legacy systems to scalable and cloud-based technologies (AWS, postgres, APIs).  Write technical specifications and requirements documents for a variety of data science and software projects.
+- **Project and program management**: Coordinate high-visibility, high-impact projects that touch many departments within Biobot. Lead internal technical workstreams and serve as an external technical point person for large federal contracts.
+
+***
+
 # Research experience
 
 **Alm lab**, Massachusetts Institute of Technology (2014-2019)   
@@ -53,6 +73,14 @@ See [publications](/publications/) page.
 
 ## Oral presentations
 
+Oct. 2022 - [MIT Microbiome Club](https://microbiome.mit.edu/for-students/microbiome-club/) Industry Seminar.
+
+Mar. 2022 - "Supporting a nationwide Covid-19 wastewater monitoring program." WEF Public Health and Water Conference, Wastewater Disease Surveillance Summit.
+
+June 2021 - [Boston Society of Civil Engineers](https://www.bsces.org/about/special-funds/john-r-freeman-fund-167) 2021 Freeman Lecture.
+
+May 2021 - "Wastewater analysis to understand community consumption of opioids." [EAPCCT](https://www.eapcct.org/) 2021: Toxicology 2.0.
+
 Aug. 2019 - "24-hour multi-omics analysis of residential sewage reflects human activity and informs public health." American Chemical Society National Meeting. Wastewater-Based Epidemiology: Opportunities, Challenges & Applications to Public Health & Safety.
 
 Apr. 2019 - "Intro to microbiome data visualization." Cornell University 2019 Microbiome Hackathon: [Microbiome Hack](http://microbiomehack.org). Slides: [cduvallet.github.io/mbiome-data-viz/](https://cduvallet.github.io/mbiome-data-viz/)
@@ -78,35 +106,6 @@ Mar. 2018 - "Meta-analysis to identify consistent disease-specific and shared re
 Mar. 2018 - "Meta-analysis of gut microbiome studies identifies disease-specific and shared responses." [Women in Data Science Cambridge](https://www.widscambridge.org/). [pdf](/files/2017-10-10.be_retreat_poster.pdf)
 
 Jan. 2018 - "Meta-analysis of gut microbiome studies identifies disease-specific and shared responses." [Pacific Symposium on Biocomputing](https://psb.stanford.edu/). [pdf](/files/2017-10-10.be_retreat_poster.pdf)
-
-Feb. 2016 - "Empirical signatures of compositional stability in the gut microbiome." Statistical and Algorithmic Challenges in Microbiome Data Analysis Workshop, MIT Center for Informatics and Therapeutics and The Simons Center for Data Analysis. [pdf](/files/2016-02-25.predictingOTUs.scda_workshop_poster.pdf)
-
-***
-
-# Teaching
-
-## Academic
-
-**20.106 Systems Microbiology, Teaching assistant**   
-*Massachusetts Institute of Technology*, Cambridge, Massachusetts (Fall 2015)
-
-I was a TA for seven advanced undergraduate students in a new course on the human microbiome, emerging disease, phylogenetics, and host-microbe interactions.
-I developed problem sets and guided lecture content for a module on processing and analyzing 16S data, and facilitated and participated in paper discussions on various topics in zoonotic disease, viral communities, host immune responses, and the human microbiome.
-
-**UP Biomedical Equipment Technology Department, Lecturer**   
-*Engineering World Health and University of Puthisastra*, Phnom Penh, Cambodia (2013-2014)
-
-During my Luce Year, I worked as a lecturer for [Engineering World Health](ewh.org) at the [University of Puthisastra](http://www.puthisastra.edu.kh/).
-I developed curricula for anatomy and physiology, troubleshooting skills, and math in the new Associate Bachelor's program in Biomedical Equipment Technology.
-I prepared and delivered lectures, exams, assignments, in-class activities, and demos for two classes of 12-18 Cambodian students and technicians (in English, with a translator).
-I also managed Cambodian student-teaching staff during my main supervisor's absence and supported foreign and local teaching staff.
-
-**The Art of Engineering, Teaching assistant**    
-*Columbia University*, New York, NY (2012-2013)
-
-My senior year at Columbia, I TAed the intro to engineering course for first year undergrads.
-I assisted the students in designing and building a vital-signs monitoring device, guiding them through the engineering design process and teaching concepts in MATLAB and circuitry required for projects.
-I also mentored and advised students on general biomedical engineering and college-related questions.
 
 ***
 
