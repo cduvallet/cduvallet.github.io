@@ -27,3 +27,7 @@ When I was still the only lead on our data science team and managing four ICs wh
 I also really love retros because they are a great place to sanity-check whether the thing that's bothering you is actually a big deal and bothering others, or something particular to you that you can just try to get over and let go.
 
 **Technical debt**
+
+**SLA** - service-level agreement. Essentially, it's the time by which you agree to resolve an issue. This is most often used in IT work, where the team has an SLA set for responding to and closing out tickets ("tickets must be responded to within Y minutes"). But you can also it to refer to something like "X task must be accomplished by Y time every day."
+
+Bus factor

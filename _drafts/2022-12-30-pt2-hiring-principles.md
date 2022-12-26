@@ -1,5 +1,5 @@
 ---
-title:  "Early startup employee lessons learned, part 4: hiring principles"
+title:  "Early startup hiring, part 2: hiring principles"
 permalink: /posts/2022/11/early-startup-employee-hiring-principles
 date: 2022-10-25
 ---

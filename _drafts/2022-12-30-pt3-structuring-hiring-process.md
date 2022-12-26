@@ -1,6 +1,6 @@
 ---
-title:  "Early startup employee lessons learned, part 4.5: structuring a hiring process"
-permalink: /posts/2022/11/early-startup-employee-hiring-process
+title:  Early startup hiring, part 3: structuring a hiring process"
+permalink: /posts/2022/11/early-startup-hiring-process
 date: 2022-10-25
 ---
 
