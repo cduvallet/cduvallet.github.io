@@ -2,6 +2,8 @@
 title:  "The Boston morning commute time warp"
 permalink: /posts/2022/12/boston-nh-commute-time-warp
 date: 2022-12-11
+tags:
+  - portfolio
 ---
 
 Like many young adults our age, my partner and I did the classic pandemic move of fleeing the city and moving in with his parents. That's how I discovered I actually really enjoy living in rural New Hampshire, and last December we officially moved in to our own place in southern New Hampshire.
@@ -137,11 +139,11 @@ df['travel_time_max_minutes'] = df['travel_time_max'].apply(lambda x: convert_to
 # Calculate estimated arrivals
 df['depart_datetime'] = pd.to_datetime(df['date'] + ' ' + df['depart_time'])
 df['arrival_time_min'] = df.apply(
-    lambda row: row['depart_datetime'] + timedelta(minutes=row['travel_time_min_minutes']), 
+    lambda row: row['depart_datetime'] + timedelta(minutes=row['travel_time_min_minutes']),
     axis=1
 )
 df['arrival_time_max'] = df.apply(
-    lambda row: row['depart_datetime'] + timedelta(minutes=row['travel_time_max_minutes']), 
+    lambda row: row['depart_datetime'] + timedelta(minutes=row['travel_time_max_minutes']),
     axis=1
 )
 
@@ -163,9 +165,9 @@ ax.xaxis.set_major_formatter(mdates.DateFormatter('%H:%M'))
 
 ax.set_ylabel('Max total travel time (minutes)')
 ```
-    
+
 ![png](/images/2022-09-08-boston-nh-commute_files/2022-09-08-boston-nh-commute_6_1.png)
-    
+
 
 
 Ok, so anywhere from two to three hours - that checks out. Already here you can see one of the key points of this whole thing: the range of possible durations for the same departure time is huge! For example, leaving at 6:30 am can take anywhere from 130 to 180 minutes - that's an hour difference for the same departure time!
@@ -188,12 +190,12 @@ ax.set_ylabel('I-93 S travel time (min)')
 ```
 
 ![png](/images/2022-09-08-boston-nh-commute_files/2022-09-08-boston-nh-commute_8_1.png)
-    
+
 
 
 Interesting, this data seems to indicate that the routes are roughly equivalent but the I-93 route often takes longer than going on Route 3. While I see how a computer would think this, as a human it really doesn't check out.
 
-What I think might be going on here is that I-93 has more predictable traffic than Route 3, both in terms of locations and amount, and so its estimates are taking into account that traffic while the Route 3 estimates aren't able to. 
+What I think might be going on here is that I-93 has more predictable traffic than Route 3, both in terms of locations and amount, and so its estimates are taking into account that traffic while the Route 3 estimates aren't able to.
 Perhaps it _would_ make sense for Google's algorithm to incorporate its confidence in the amount & location of traffic when it gives you estimates for travel _in the future_. For a computer, the training data is likely very clear: 93 south has traffic in the same spots every single day. It's easy to measure and very consistent, and therefore very very predictable. Route 3, on the other hand, _theoretically_ should have less traffic because it's _not_ the main thoroughfare into Boston - the route goes through Nashua and then veers west to go around Boston before taking I-90 East back into Cambridge. Of course, though, there's always traffic or accidents on this route - it's just that maybe the traffic isn't always in the exact same spot and so the algorithm isn't confident enough in it to incorporate it in its predictions. (Though if you ask me, that gnarly intersection has always been _predictably_ awful and Google always underestimates how much time it adds - it should have been incorporated into the algorithm by now! Come on neural nets, get it together!)
 
 Anyway, let's get directly to our question: is it possible to reliably arrive at a reasonable morning working time, or does the Boston traffic time warp make that a physical impossibility?
@@ -211,16 +213,16 @@ for ax in g.axes.flatten():
 
     ax.xaxis.set_major_formatter(mdates.DateFormatter('%H:%M'))
     ax.yaxis.set_major_formatter(mdates.DateFormatter('%H:%M'))
-    
+
     ax.set_xlabel('Departure time')
     if ax.get_ylabel():
         ax.set_ylabel('Arrival time')
 ```
 
 
-    
+
 ![png](/images/2022-09-08-boston-nh-commute_files/2022-09-08-boston-nh-commute_10_0.png)
-    
+
 
 
 Looks like the two routes are basically the same. Given that I've learned my lesson about route 3 from my recent experience, and that I-93 is a much more pleasant drive, I'll focus on that for the rest of this deep dive into the time warp. I'm also only looking at the maximum estimated time provided by Google, since we know from personal experience that even that maximum is often an underestimate.
@@ -248,9 +250,9 @@ def basic_scatter(
     )
 
     ax.legend(loc='lower right', title="Google's\nestimate\ncolor")
-    
+
     format_time_axes(ax)
-    
+
     return ax
 
 ax = basic_scatter(df)
@@ -270,19 +272,19 @@ ax.fill_between(
 
 
 
-    
+
 ![png](/images/2022-09-08-boston-nh-commute_files/2022-09-08-boston-nh-commute_12_1.png)
-    
 
 
-Basically, leaving home any time between 5:30 am and 8:30 am puts me in the Boston traffic time warp: a period of  unpredictable and highly variable traffic, when the trip can take a full hour more on a bad day than a good one. And despite Google's conservative estimates of the badness of traffic (at least based on the color of the arrival estimates they provide), you can see that the worst times for traffic also fall within the time warp period. 
+
+Basically, leaving home any time between 5:30 am and 8:30 am puts me in the Boston traffic time warp: a period of  unpredictable and highly variable traffic, when the trip can take a full hour more on a bad day than a good one. And despite Google's conservative estimates of the badness of traffic (at least based on the color of the arrival estimates they provide), you can see that the worst times for traffic also fall within the time warp period.
 
 We can look at the day-to-day variability using my favorite statistical method, eyeballing it (since each point is a day, it's the vertical spread between points), or by calculating it directly:
 
 
 ```python
 # Difference in max travel time between days
-(df.groupby('depart_time')['travel_time_max_minutes'].max() 
+(df.groupby('depart_time')['travel_time_max_minutes'].max()
  - df.groupby('depart_time')['travel_time_max_minutes'].min()
 ).reset_index(name='max_and_min_days_delta')
 ```
@@ -373,7 +375,7 @@ During the Boston traffic time warp, your commute can differ by up to an hour de
 
 Taking this further - leaving on a bad day might get you to Boston at the same time as leaving a full hour later on a good day. (I'll say it again: leaving at 7:30 am on a bad day means you arrive at the same time as leaving at 8:30 on a good day :sob: - think of the extra hour of sleep you could have had!!) You can see this because the worst arrival time for a given departure time is the same arrival time as the best arrival time for a departure time an hour later - in other words, the highest dot for a given departure time is at the same vertical level as the lowest dot for a departure time that's an hour later.
 
-Outside of the time warp, in contrast, travel time to Boston is quite stable at around max two hours. But within the time warp period, the max travel time to Boston can get up to 3 hours depending on the day of the week. And that's not even counting accidents, road work, or whatever else Google can't predict! 
+Outside of the time warp, in contrast, travel time to Boston is quite stable at around max two hours. But within the time warp period, the max travel time to Boston can get up to 3 hours depending on the day of the week. And that's not even counting accidents, road work, or whatever else Google can't predict!
 
 Let's see if Google's own estimates recapitulate the high variance during the time warp.
 
@@ -413,12 +415,12 @@ ax.xaxis.set_major_formatter(mdates.DateFormatter('%H:%M'))
 
 ax.set_ylabel('Difference between earliest\nand latest arrival times (minutes)')
 ```
-    
+
 ![png](/images/2022-09-08-boston-nh-commute_files/2022-09-08-boston-nh-commute_18_1.png)
-    
 
 
-Yep, you can see that the range between the earliest and latest estimated arrival times that Google provides reflects the range we see when we look at the day-to-day variability in the latest arrival time. Google seems to have a narrower time warp though, with things really only getting dicey from 5:30 to 8 am. I've been caught by this before, flipping back and forth between different departure times the night before I have to head into Boston, simultaneously calculating how few hours of sleep I'm gonna get with the likelihood of there being traffic and my own confidence in Google's optimistic estimates. 
+
+Yep, you can see that the range between the earliest and latest estimated arrival times that Google provides reflects the range we see when we look at the day-to-day variability in the latest arrival time. Google seems to have a narrower time warp though, with things really only getting dicey from 5:30 to 8 am. I've been caught by this before, flipping back and forth between different departure times the night before I have to head into Boston, simultaneously calculating how few hours of sleep I'm gonna get with the likelihood of there being traffic and my own confidence in Google's optimistic estimates.
 
 Ok great so the time warp exists, but that doesn't solve my problem of still needing to drive into Boston sometimes.  Let's say I'd like to arrive to work between 9:30 and 10:30 am, what does my commute look like then?
 
@@ -444,12 +446,12 @@ ax.fill_between(
 
 
 
-    
+
 ![png](/images/2022-09-08-boston-nh-commute_files/2022-09-08-boston-nh-commute_21_1.png)
-    
 
 
-Woof - on the absolute worst day, getting to Boston at 9:30 am means I'd have to leave at 6:30 am. But on the best day, I could leave at 7:30 am. To make the best use of my time and not get stuck in the time warp, I should really try to leave home at 8:30  or 9, which means I shouldn't schedule anything important until after 11 am. 
+
+Woof - on the absolute worst day, getting to Boston at 9:30 am means I'd have to leave at 6:30 am. But on the best day, I could leave at 7:30 am. To make the best use of my time and not get stuck in the time warp, I should really try to leave home at 8:30  or 9, which means I shouldn't schedule anything important until after 11 am.
 
 However, I usually end up leaving around 8 am because arriving at 11 am is a little bit too late and too disruptive to my workday. Leaving at 8 am is sort of the balance point for me where I'm comfortable gambling on it being a good day (and thus getting to Boston early enough to enjoy a leisurely coffee before my 11 am meetings), but not so early that if I get stuck in traffic I'll be very annoyed at all the time I wasted. Also, two and half hours doesn't feel too too bad for a commute in, but only because I don't do it very often. From this analysis, though, it does seem like leaving at 8:30 am is probably a better bet - I don't get to Boston that much later, but the day-to-day variability in my commute will be lower, thus leading to hopefully less frustration.
 
@@ -457,4 +459,4 @@ Anyway, I already mostly knew this - scheduling anything in Boston before 11 am 
 
 In conclusion, Boston morning traffic sucks and feels like a time warp, which the data confirms is a valid feeling to have. Google's estimates are surprisingly optimistic, with the maximum arrival time corresponding best with my lived experience. (Note to self: ignore the earliest estimated time from now on). Also, Google thinks that Route 3 and I-93 are basically the same, but my experience shows that to not be true. Maybe Google needs to incorporate an "emotional frustration" parameter into their recommendation algorithm, which includes some weights related to the daily variability in the traffic as well as how well Google's estimates actually perform. Finally, leaving between 5:30 and 9 am means that my commute is unpredictable and could potentially suck a lot. That means that trying to get into Boston between 7:30 and 10:30 am sucks, and I shouldn't schedule any important meetings during that time period if I don't want to have to leave super early. So long as my first meetings are after 11 am, 8:30 am seems to be the optimal time to leave, balancing the potential benefit of getting into Boston early enough to grab a coffee with the slight chance of hitting a bad traffic day and getting a little stuck in the time warp.
 
-Next time, I'd love to do this analysis but stop just north of Boston and see what proportion of all this chaos is caused by the last 10 miles of the trip vs the other 60. 
+Next time, I'd love to do this analysis but stop just north of Boston and see what proportion of all this chaos is caused by the last 10 miles of the trip vs the other 60.

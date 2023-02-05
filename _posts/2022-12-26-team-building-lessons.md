@@ -79,7 +79,7 @@ By doing so, we encourage new hires to put our values immediately into practice,
 
 # Be the broken record
 
-Finally, something I didn't realize I was doing at the time but which I think has been very helpful in shaping our culture is to constantly give my team the rationales behind what I'm doing and what our company is doing. 
+Finally, something I didn't realize I was doing at the time but which I think has been very helpful in shaping our culture is to constantly give my team the rationale behind what I'm doing and what I see our company doing. 
 I think that explaining the "why" behind decisions that we're making helps build an engaged team.
 For example, helping individual contributors understand why the company is making certain decisions or prioritizing certain projects can help provide additional motivation and context for the work they're being asked to do.
 And as an early employee and leader, explaining my thought processes behind my decisions can teach and empower others to learn how to make those decisions themselves in the future, thus scaling my influence without stretching me thinner.

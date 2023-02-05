@@ -7,6 +7,7 @@ tags:
     - travel
     - python
     - geopandas
+    - portfolio
 ---
 
 When I was on my [cross-country road trip](https://cduvallet.github.io/travel/) last year, I kept track of a lot of things in the hopes of doing amazing analyses when I got back. Turns out having a job as a data scientist makes it a lot harder to find time to do data science on the side, and so I've only really gotten a chance to look into my [expenses](2019/07/road-trip-expenses-pt1). One of the things I had really wanted to do was make a map of all the places I went, but I didn't actually know how to work with geospatial data in Python yet. I had this grand idea that I'd learn spatial data techniques while on my trip, but turns out hiking, drinking beer while watching the sunset, and going to bed early were way more compelling ways to spend my time. Luckily for me, one of the most fun parts of my new job has been learning geospatial coding and plotting techniques. I've been having fun with it in my job, and I realized that it also means I get to finally make my map!

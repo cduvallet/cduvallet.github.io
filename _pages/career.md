@@ -4,8 +4,7 @@ permalink: /career/
 author_profile: true
 ---
 
-I'm not actively looking for a change right now, but I am open to new and exciting opportunities. 
-If you're hiring for a role that resonates with what I've described below, please reach out via email!
+If you're hiring for or know of a role that resonates with what I've described below, please reach out via email!
 
 ## Companies
 
@@ -20,13 +19,13 @@ My ideal company:
 
 Some general areas that interest me include climate, public health, social impact, nutrition, agriculture, and progressive politics.
 
-In terms of **disease focus**, I find myself gravitating toward infectious disease and chronic diseases that affect large numbers of people, and am uninterested in oncology. Interestingly, personalized medicine companies are a mixed bag - if they're focused on diseases that impact a lot of people, then I'm pumped! 
+In terms of **disease focus**, I find myself gravitating toward infectious disease and chronic diseases that affect large numbers of people, and am usually uninterested in oncology. Interestingly, personalized medicine companies are a mixed bag - if they're focused on diseases that impact a lot of people, then I'm pumped! 
 
 Additionally, I've really enjoyed working at a company that has an actual product out in the world that people use, and think that my experience & skillset would transfer well to a company creating scientific consumer products.
 
 ## Roles
 
-In my next role, I'd like to continue serving as a **technical advisor** while building my **IC skills**.
+In my next role, I'd like to continue serving as a **technical advisor**, ideally also while building my **IC skills**.
 
 I enjoy being a **technical lead**, meaning that I:
 
@@ -41,11 +40,9 @@ In my next role, I'm excited to find somewhere with the space and/or support to 
 I have two years of management experience and enjoy managing small teams, but growing as a manager is not a current priority for me.
 That said, I do love building teams: figuring out what roles are needed, hiring to fill those roles, establishing a strong and positive team culture, and growing a team to make myself redundant.
 
-Finally, I'm based in New Hampshire and am only interested in remote roles (but am fine with west coast-based companies). 
+Finally, I'm based in New Hampshire and am primarily interested in remote roles (I'm fine with west coast-based companies). I'm happy to consider hybrid roles in the Greater Boston area (1x/week max), but strongly prefer somewhere with flexibility.
 
 ## Future
 
-My career goal is to **shape the technical vision** of a company which uses **computational biology or data science** to **impact society**.
-
 I don't fully know where I want my career to eventually take me, but two enticing options are as a VP of Data Science or CTO-like character at an exciting impact-focused company, or a freelancer working on cool projects at cool companies.
-I could see myself transitioning to a pure data science role (i.e. no computational biology), but only for the right company and mission.
+I'm ideally looking for roles that leverage my training in biological data, but I could see myself transitioning to a pure data science role (i.e. no computational biology) for the right company and mission.
