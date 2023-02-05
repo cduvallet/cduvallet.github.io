@@ -95,3 +95,8 @@ Of course, explicit training and documentation would probably be a better way to
 
 When in doubt, I've found that clearly spelling out the "why" behind what we're doing can be a great substitute for process and documentation, and is a good way to help others connect the dots themselves and understand the bigger picture behind what they're being asked to do.
 
+_If you liked this post, check out the rest of the series on being an early startup employee:_
+- _[Part 1: affecting change within your org](/posts/2022/11/early-startup-employee-change)_
+- _[Part 2: coping with the emotional rollercoaster](/posts/2022/11/early-startup-employee-coping)_
+- _[Part 3 (this post): building a team culture](/posts/2022/12/early-startup-team-growth-culture)_
+- _[Part 4: adapting to your changing role](/posts/2023/02/early-startup-changing-role)_

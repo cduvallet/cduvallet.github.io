@@ -111,6 +111,8 @@ Early employees play a huge role in this transformation, but it only works if we
 In fact, I believe that a key company milestone that nobody really talks about is achieving redundancy for early employees - the sooner you can get in the habit of not being critical, the sooner your company will get there.
 So take a vacation, uninstall slack from your phone, close your laptop: remember, you're actually doing your company a favor.
 
-_I hope these strategies and mantras are helpful if you are an early employee struggling with the emotional roller coaster of your experience.
-Or if you're considering jumping into the journey, perhaps these ideas and those that I discussed in [Part 1](/posts/2022/11/early-startup-employee-change) can serve as a sneak peek into the types of challenges you'll face. 
-Stay tuned for parts 3 and 4 on building teams and hiring!_ 
+_I hope these strategies and mantras are helpful if you are an early employee struggling with the emotional roller coaster of your experience. If you liked this post, check out the rest of the series on being an early startup employee:_
+- _[Part 1: affecting change within your org](/posts/2022/11/early-startup-employee-change)_
+- _[Part 2 (this post): coping with the emotional rollercoaster](/posts/2022/11/early-startup-employee-coping)_
+- _[Part 3: building a team culture](/posts/2022/12/early-startup-team-growth-culture)_
+- _[Part 4: adapting to your changing role](/posts/2023/02/early-startup-changing-role)_

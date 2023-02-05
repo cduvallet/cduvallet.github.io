@@ -129,3 +129,8 @@ Luckily, there are so many things you can be doing right now - so it's important
 So basically, figuring out how to make change at a growing organization is also a lot about all the ways you _can't_ make change in the organization.
 But knowing what you can't do is important to stop wasting energy on sysyphean tasks and instead refocus towards approaches that have a chance of achieving impact: starting small and biding your time, with the hopes that your local impact will ripple outwards and upwards to the rest of your organization.
 
+_If you liked this post, check out the rest of the series on being an early startup employee:_
+- _[Part 1 (this post): affecting change within your org](/posts/2022/11/early-startup-employee-change)_
+- _[Part 2: coping with the emotional rollercoaster](/posts/2022/11/early-startup-employee-coping)_
+- _[Part 3: building a team culture](/posts/2022/12/early-startup-team-growth-culture)_
+- _[Part 4: adapting to your changing role](/posts/2023/02/early-startup-changing-role)_
