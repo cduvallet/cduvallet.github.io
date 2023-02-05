@@ -1,12 +1,16 @@
 ---
 title:  "Early startup hiring, part 1: hiring strategies"
-permalink: /posts/2022/11/early-startup-hiring-strategy
-date: 2022-10-25
+permalink: /posts/2023/02/early-startup-hiring-pt1-strategy
+date: 2023-02-10
 ---
 
-# Hiring strategies
+One of the most important aspects of joining a startup as an early employee is helping it grow, and that means hiring.
+Hiring is probably the most useful and transferable skill I've picked up as an early employee. 
+I'll cover more of the specifics of _how_ to set up good hiring processes in future posts of this three-part series.
+For this post, I want to start where all hiring processes start: with a decision to hire someone. 
+It's not obvious to figure out when you need a hire and what kind of hire you need, and in the past few years of mistakes and successes I've picked up a few philosophies which I want to share here.
 
-## Junior vs. senior hires
+## You probably need a senior hire
 
 How do you decide who to hire when?
 Early on, you almost always need senior or experienced people.
@@ -32,13 +36,15 @@ Early on, we also hired a team of software engineering contractors to try to tak
 But I wasn't experienced enough to know how to give the team direction (for example, by writing technical specifications), explain to them what I really needed, or even review the code they wrote particularly well.
 What we ended up with set the stage for our tech debt: wrappers around my poorly designed and (still) undocumented code along with their new poorly designed and (also) undocumented code, all wrapped up and running in the cloud via a technology I was unfamiliar with.
 
-In contrast, when we finally hired a full-time senior software engineer he was able to put the time and energy into understanding the ideas behind our software needs. He read through my codebase and started understanding its strengths and weaknesses.
-And when we received a new contract that needed an entirely new pipeline written from scratch, he was able to stand that up quickly and relatively sustainably. 
+In contrast, when we finally hired a full-time senior software engineer he was able to put the time and energy into understanding the ideas behind our software needs. 
+He read through my codebase and started understanding its strengths and weaknesses.
+Through our conversations, he showed me how to write architecture designs and technical specifications to get ideas out of my brain and somewhere that others could do something with it.
+And when we received a new contract that needed an entirely new pipeline written from scratch, he was able to stand that up quickly without requiring much from me. 
 
-## Hiring leaders vs. ICs
+## Don't wait to hire senior ICs
 
 Speaking of senior hires, the most important lesson I've learned is that if you're hiring for that team's leader but also semi-desperately need senior individual contributors, you should absolutely _not_ wait to hire the leader before hiring the IC's.
-Luckily, our data science made a handful of opportunistic senior hires fairly on, so we didn't run into this issue.
+Luckily, our data science team made a handful of opportunistic senior hires fairly on, so we didn't run into this issue.
 We hired our director of data science when we were already a fully-functional team of over 10 people, after an approximately year-long search.
 If we had waited to find him before starting to fill out our ICs, we would have not succeeded as a team or perhaps even a company.
 Similarly, our software team hired a senior full-time IC many months before we found a director of engineering.
@@ -47,6 +53,7 @@ Despite having been hired as an IC, my colleague knew enough about how software 
 In contrast, other teams at my company _have_ waited to hire a senior leader before filling out the team's ranks.
 These teams really struggle with being overworked, not having clear processes or technical direction, and are generally falling behind the rest of the company's growth. 
 In my opinion, senior ICs should be hired as soon as they are needed because they can provide an important bridge until the leader is hired without accumulating too much technical or operational debt.
+Additionally, they bring perspective and expertise that can often accelerate the search for a leader: they've had bosses in their domain, so they know what to look for and how to hire for those roles better than folks outside of their team.
 
 One pushback I've heard in favor of waiting to hire ICs until there is a leader is that the management chain rapidly becomes unmanageable, with individuals at the top having way too many direct reports.
 I empathize with this situation, since nobody wants to manage more than 5 people (and nobody wants to be managed by someone with more than 5 reports).
@@ -56,6 +63,8 @@ In my experience, as our data science team grew I ended up managing three indivi
 It was a little weird and definitely lonely, but I treated them essentially like peers: I served as a honest conduit with our upper management and did my best to provide feedback on their performance, but as far as the actual work that they did, we were very much partners in figuring out what to do and how to do it.
 It was a strange but fruitful relationship, and also meant that as they got promoted into more senior roles and as we fleshed out our management structure, the transition to being true peers was fairly seamless.
 
+## Junior hires also play an important role
+
 Despite my energy and passion for senior hires, there are absolutely times when a junior hire is a great idea.
 If the work you need to offload is repetitive or operational and fairly stable, you can almost certainly transition it to a junior hire.
 I also learned this the hard way: our daily data review was done by PhD's for over a year, whereas now it's performed by a team of entry-level data analysts.
@@ -63,7 +72,11 @@ For a long time, we felt that the work we were doing was "too special" to be han
 But we were wrong - it was difficult to hand off, but it's not because it was special, it's because it wasn't documented.
 Once we wrote down what we were actually doing, within three months we had almost completely offboarded it to our new entry-level team.
 
+## Opportunistic hires are great
+
 Finally, I am strong a believer in opportunistic hires.
 I took a management training earlier this year which emphasized a quote from a management book: focus on getting the right people on the bus and the wrong people off the bus first, and _then_ figure out everybody's seats.
 Some of our best hires were opportunistic - one applied to a stale position we'd forgotten to take down, another was a more senior candidate than we were originally intending to hire, and yet another was a former colleague who we knew had great potential despite having absolutely no idea where to place him. 
 All three have gone on to do great work and dramatically improve our company's chances of success.
+
+_It seems simple when I write them down, but these general strategies weren't obvious to me when I started figuring out how to build our teams, so hopefully they'll be useful to you. Stay tuned for parts 2 and 3 of this series, where I'll go over basic principles to bring to a hiring process and give an overview of the hiring process that I've found works for me._
