@@ -1,0 +1,21 @@
+# Get just the history table:
+
+hist = soup.find_all('div', id='historyList')[0]
+
+# Get all of the movie elements, they're in a <li> </li> block woohoo!
+movies = hist.find_all('li', id=True)
+
+m = movies[0]
+
+# title
+title = m.find('a', 'title').string
+
+# year, rating, and duration - not sure how to parse yet
+m.find('p', 'metadata')
+
+# get the user rating
+# todo: switch to find_all and then make sure it's only returning one user rating
+m.find('span',  attrs={'data-userrating': True}).attrs['data-userrating']
+
+ship_date = m.find('div', 'shipped').text
+return_date = m.find('div', 'returned').text
