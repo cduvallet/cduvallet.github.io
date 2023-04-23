@@ -4,7 +4,7 @@ permalink: /career/
 author_profile: true
 ---
 
-If you're hiring for or know of a role that resonates with what I've described below, please reach out via email!
+_Because I'm starting a new role at Science for America in May 2023, I won't be looking for a new role any time soon._
 
 ## Companies
 
@@ -33,7 +33,7 @@ I enjoy being a **technical lead**, meaning that I:
 - provide subject matter expertise to help guide architectural and data model decisions
 - bridge software and data teams by evangelizing software best practices on data teams and educating about the wonders and power of data to software teams
 
-My favorite analogy for my current tech lead role is that I am like a cave guide: I go down into the rabbit holes with our brilliant scientists, but I also bring the rope and flashlight to make sure we know where we're going and can always come back up to the big picture. 
+My favorite analogy for my current tech lead role is that I am like a cave guide: I go down into the rabbit holes with our brilliant scientists, but I also bring the rope and flashlight to make sure we know where we're going and can always come back up to the big picture.
 I'm excited to continue serving as an early-stage, jack-of-all-trades technical employee - I've really enjoyed being in this position at Biobot, and feel that I've done a good job helping our company scale successfully.
 
 In my next role, I'm excited to find somewhere with the space and/or support to continue building my technical IC skills, in addition to continuing to serve as a technical leader.

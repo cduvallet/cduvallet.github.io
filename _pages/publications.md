@@ -44,7 +44,7 @@ _mSystems_ (2020). doi: [10.1128/mSystems.00614-20](https://msystems.asm.org/con
 _GigaScience_ (2020). doi: [10.1093/gigascience/giz148](https://doi.org/10.1093/gigascience/giz148).   
 
 Mariana Matus, **Claire Duvallet**, Newsha Ghaeli, Melissa Kido Soule, Krista Longnecker, Ilana Brito, Carlo Ratti, Elizabeth B. Kujawinski, Eric Alm.   
-"Untargeted detection of human health and activity markers in residential wastewater through microbiome sequencing and metabolomics."    
+"24-hour multi-omics analysis of residential sewage reflects human activity and informs public health."    
 _bioRxiv_ (2019) doi: [10.1101/728022](https://doi.org/10.1101/728022).
 
 **Claire Duvallet**, Caroline Zellmer, Pratik Panchal, Shrish Budree, Madji Osman, and Eric Alm.    
@@ -84,7 +84,13 @@ Scott W. Olesen, **Claire Duvallet**, and Eric J. Alm.
 "dbOTU3: A new implementation of distribution-based OTU calling."      
 _PloS ONE_ 12, no. 5 (2017): e0176335. doi: [10.1371/journal.pone.0176335](https://doi.org/10.1371/journal.pone.0176335)
 
-## Non-peer reviewed academic content
+## Non-peer reviewed professional content
+
+_[White paper]_ **Claire Duvallet**, Matthew Boyce. "Normalizing wastewater data." _[Biobot Analytics](https://biobot.io/science/)._ (2023)
+
+_[Blog post]_ **Claire Duvallet**. "[Building a new data visualization: from basic to brilliant!](https://biobot.io/building-a-new-data-visualization-from-ideation-to-interactive-dashboard/)." _[Biobot Analytics](https://biobot.io/blog/)._ (2023)
+
+_[White paper]_ Scott Olesen, Cristin Young, **Claire Duvallet**. "[The Effect of Septic Systems on Wastewater-Based Epidemiology](http://biobot.io/wp-content/uploads/2022/09/BIOBOT_WHITEPAPER_EFFECT_OF_SEPTIC_V01-1.pdf)." _[Biobot Analytics](https://biobot.io/science/)._ (2022)
 
 _[Tutorial]_ **Claire Duvallet**. "[Updating your qiime2 plugin](https://dev.qiime2.org/latest/tutorials/updating-plugin/)." _QIIME 2 developer docs._ (2019).
 

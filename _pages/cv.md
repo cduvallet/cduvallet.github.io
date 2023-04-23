@@ -21,7 +21,10 @@ James Bowie High School, Austin, TX (2009)
 
 # Professional Experience
 
-**Biobot Analytics** (2019-present)  
+**Science for America** (2023-present)  
+_Scientist, STEM_
+
+**Biobot Analytics** (2019-2023)  
 _Founding Staff Data Scientist (Nov 2022 - present)  
 Founding Technical Lead, Data Science (Dec 2021 - Nov 2022)  
 Senior Data Scientist (Mar 2021 - Dec 2021)  
@@ -72,6 +75,8 @@ See [publications](/publications/) page.
 # Presentations
 
 ## Oral presentations
+
+March 2023 - [HSPH Center for Communicable Disease Dynamics](https://ccdd.hsph.harvard.edu/) [ID Epi Seminar Series Spring 2023](https://ccdd.hsph.harvard.edu/id-epi-series-2023/). [Watch the recording](https://www.youtube.com/watch?v=2qSMnaCxtwc).
 
 Oct. 2022 - [MIT Microbiome Club](https://microbiome.mit.edu/for-students/microbiome-club/) Industry Seminar.
 

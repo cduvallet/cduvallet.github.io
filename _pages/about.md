@@ -9,14 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm the founding data scientist at [Biobot Analytics](www.biobot.io), a startup transforming sewers into public health observatories.
-As a technical lead on Biobot’s data science team, I provide technical subject matter expertise across a variety of projects and programs. In my role, I work closely with the data science team as a contributor and advisor on R&D projects, serve as a technical advisor and representative on cross-company programs, and bridge scientists and software engineers within Biobot.
+As of May 2023, I'm joining [Science for America](https://www.scienceforamerica.org/) to identify and support game-changing solutions to improve equity in STEM and public health.
+
+Before SfA, I was the founding data scientist at [Biobot Analytics](www.biobot.io), a startup transforming sewers into public health observatories.
+In my role, I provided high-level technical feedback on a variety of data science and software engineering projects, served as a key subject matter expert on wastewater-based epidemiology within the company and on external calls, and was the technical point-person for our federal contracts with HHS and CDC.
+As a founding employee, I also helped the company grow from 5 to 150+ people, and am especially proud of building Biobot's data science team from the ground up with an emphasis on fostering a collaborative and transparent culture.
 
 Before joining Biobot, I received my PhD from the Department of Biological Engineering at MIT.
 I worked in [Eric Alm's lab](http://almlab.mit.edu), studying the relationship between the human microbiome and health and disease.
 Before that, I lived for a year in Cambodia working for [Engineering World Health](http://www.ewh.org/) as a [Luce Scholar](http://www.hluce.org/lsprogram.aspx).
 Before that, I studied biomedical engineering at Columbia University.
-
-
-Check out my [career](/career/) page for more about my professional interests, and my [CV](/cv/) page to learn more about my skills.
-
