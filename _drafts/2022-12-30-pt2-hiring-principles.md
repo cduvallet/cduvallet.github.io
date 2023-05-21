@@ -5,10 +5,11 @@ date: 2022-10-25
 ---
 
 Quite possibly the most valuable skill I've gained in the past two years as an early employee of a rapidly growing startup is hiring: hiring well (getting good candidates) and efficiently (with minimal pain).
-Hiring has gone from one of my least favorite parts of working at a startup to something I look forward to and love to volunteer myself for.
+Hiring went from one of my least favorite parts of working at a startup to something I looked forward to and love to volunteer myself for.
+In this post, I'll share the core principles that unlocked this transition, and which guide every action I take during a hiring process.
 
 Before I figured out how to hire, my hiring processes took _forever_ (many months) and were extremely emotionally draining.
-I wasn't any good at writing reasonable job descriptions, I didn't have clear plans for the hiring process, and because I didn't have a good sense of what I needed I didn't really know how to evaluate candidates.
+I wasn't any good at writing reasonable job descriptions, I didn't have clear plans for the hiring process, and because I didn't have a good sense of what I needed, I didn't really know how to evaluate candidates.
 This meant that with every new candidate, I was essentially starting from scratch.
 I remember so many DM's from our founder and VP of Engineering that were essentially like "ok so after X talks to Y candidate, who should we have them talk to next?"
 We tried to over-engineer it by tailoring the interviewees to the candidate, and because our job descriptions were so broad and vague no candidates ever had a chance to make it through.
@@ -20,8 +21,8 @@ I also have very strong opinions on how to hire, and love telling them to anybod
 So who better to tell than the internet?
 Join me on my soapbox, let's learn about hiring!
 
-This was initially supposed to be a single post as part 4 of my "early employee lessons learned" series, but it got quite long so I'm splitting it into two.
-In this first post I'll cover my general hiring principles; in the next one I'll share the nuts and bolts of how I set up my interview processes.
+This is the second in a three-part series on hiring.
+The first post covered the basic strategic decisions for hiring, this post focuses on my general hiring principles, and in the third I'll share the nuts and bolts of how I like to set up my interview processes.
 
 # Hiring principles
 

@@ -6,9 +6,12 @@ date: 2023-02-10
 
 One of the most important aspects of joining a startup as an early employee is helping it grow, and that means hiring.
 Hiring is probably the most useful and transferable skill I've picked up as an early employee. 
-I'll cover more of the specifics of _how_ to set up good hiring processes in future posts of this three-part series.
+It's also something I've discovered I'm quite passionate about, as hiring went from one of my least favorite parts of my job to something I really miss now that I'm gone!
+
+This is a three-part series with the lessons learned and opinions developed over 3.5 years of helping a startup grow from 5 to 150+ employees, and growing my own team from 1 to about 20.
+In the next two posts, I'll step on my soapbox and share some basic principles that are core to my hiring strategy and cover the specifics of _how_ I like to set up hiring processes.
 For this post, I want to start where all hiring processes start: with a decision to hire someone. 
-It's not obvious to figure out when you need a hire and what kind of hire you need, and in the past few years of mistakes and successes I've picked up a few philosophies which I want to share here.
+It's not obvious to figure out when you need a hire and what kind of hire you need, and in the past few years of mistakes and successes I've picked up a few general strategies which I want to share here.
 
 ## You probably need a senior hire
 
