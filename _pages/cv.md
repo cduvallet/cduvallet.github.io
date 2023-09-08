@@ -24,13 +24,11 @@ James Bowie High School, Austin, TX (2009)
 **Science for America** (2023-present)  
 _Scientist, STEM_
 
-- **Define Critical Problems and Game-changing Goals**: Understand the critical problems that need to be solved in STEM Equity and Education, and identify the set of game-changing goals that (i) are potentially feasible in the next five years, and (ii) if achieved, would be transformative for solving the problems. Communicate our understanding of game-changing goals to stakeholders and the public in clear and compelling forms.
-
-- **Define Specific Targets**: Identify specific targets that (i) provide the best prospects for achieving the game-changing goals and (ii) are not already being pursued at sufficient scale. If the targets are not already being pursued at adequate scale, understand the structural issues and barriers that explain why.
-
-- **Incubate and Launch Solutions**: Identify the solutions that are needed to achieve these targets (e.g. philanthropic initiatives, industrial consortia, start-up companies, shared facilities, mini-Manhattan Projects, new advocacy groups, etc).  Develop concrete plans for how best to incubate and launch these solutions.  In collaboration with allies, launch the solutions and ensure their success. 
-
-- **Team building**: Define team strategy and hiring roadmap, manage Science for America fellows, and establish positive and collaborative culture within Science for America.
+- Analyze US education data (IPEDS, NCSES) to define and quantify underrepresentation within STEM fields across higher education and within individual institutions.
+- Develop a framework for identifying and defining critical problems and game-changing goals in STEM Equity and Education.
+- Work with Chief Scientific Officer and Strategic Advisors to set Science for America's direction in STEM Equity and Education.
+- Develop strategy to engage external committee of experts in STEM Equity and Education. Serve as a thought partner and consultant with individual domain experts to flesh out and refine their approaches to game-changing solutions.
+- Define internal team strategy, manage two Science for America fellows, and establish positive and collaborative culture within Science for America.
 
 **Biobot Analytics** (2019-2023)  
 _Founding Staff Data Scientist (Nov 2022 - present)  
@@ -38,7 +36,7 @@ Founding Technical Lead, Data Science (Dec 2021 - Nov 2022)
 Senior Data Scientist (Mar 2021 - Dec 2021)  
 Data scientist (Jul 2019 - Mar 2021)_  
 
-As an early employee of Biobot Analytics, I've worn many hats and done many things:
+As an early employee of Biobot Analytics, I wore many hats and did many things:
 
 - **Data science**: Analyze SARS-CoV-2 and opioid data from thousands of wastewater samples to gain public health insight (pandas, geopandas, scikit learn, scipy). Build data visualizations to communicate data concisely (matplotlib, seaborn, geopandas, altair). Work with other data scientists to build and launch data science features that make wastewater data more interpretable and actionable.
 - **Technical leadership**: Define data science priorities and lead a team of internal data scientists, consultants, and academic collaborators to build statistical models to interpret SARS-CoV-2 and opioid metabolite concentrations in sewage. Work with company leadership to develop Biobot's data science strategy and roadmap.
