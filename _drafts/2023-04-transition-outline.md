@@ -30,15 +30,4 @@ emotionally, it actually only got easier
 - easier: told me boss and closest colleagues
 - easiest: once i started telling people, they were just excited for me
 
-pt 3: two weeks and leaving a remote role
-
-announcing departure:
-- timing of who you tell, be thoughtful (a lot of people i told 1:1 reeeeallyy appreciate hearing from me directly)
-- figure out (and write downn) your story (https://www.fastcompany.com/90697195/this-is-how-to-quit-without-harboring-regrets). have one or two max, and be ready to talk about it positively
-
-knowledge transfer
-- if you've done a good job, there should'nt be too much left to transfer
-- focus on the culture or soft/unspoken skills
-
-closure:
-- ask for what you want. i care about closure and didn'nt want just an unstructured happy hour. my colleagues delivered!
+pt 3: two weeks and leaving a remote role - published!
