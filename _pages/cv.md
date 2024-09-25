@@ -38,7 +38,7 @@ _Computational biology consultant & technical advisor, Skkellie LLC_
 - Identify hundreds of putative retrotransposons by searching for matches to a known retrotransposon across a large variety of taxonomies. (Python, ElasticBLAST, blast WGS, Nextflow, AWS Batch). _Diamond Age Data Science, subcontractor_
 - Audit current practices and provide strategic recommendations for code versioning, environment management, and knowledge sharing within early-stage computational team. _Plonts_
 - Download thousands of bacterial genomes and perform gene annotations with DRAM to develop a database supporting product development R&D. (Python & Biopython; AWS EC2, S3, and Athena). _Plonts_
-- Serve as strategic advisor to the Head of Engineering, with a specific focus on developing the company's data science function. _Concerto Biosciences_
+- Serve as strategic advisor to the Director of Engineering, with a specific focus on developing the company's data science function. _Concerto Biosciences_
 
 **Biobot Analytics** (2019-2023)  
 _Founding Staff Data Scientist (Nov 2022 - present)  
