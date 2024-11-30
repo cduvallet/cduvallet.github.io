@@ -4,6 +4,147 @@ permalink: /travel24/
 author_profile: true
 ---
 
+## [Nov 23, Las Vegas, NV -> San Diego, CA](#nov23)
+
+Our Vegas day started with a phenomenal brunch prepared by Lucy and her partner - yum! We'd initially planned to go hiking but Ellie was definitely limping on the rocky ground, so we opted instead to do a bit of off roading (in Lucy's partner's brand new car, lolol oops). Our plans were a bit foiled by washed out ruts, so we pivoted and went to a mountain biking area with - surprise! - Joshua Trees! And also gale-force winds, holy cow. 
+
+<img src="/images/2024/PXL_20241123_204542324.jpg" width="45%">
+
+
+Then we stopped by a roadside shop selling various cactuses (including Saguaros and Joshua Trees) and fun desert art, and then grabbed lunch in a nearby town. Ellie sat with us outside and did a great job being calm! A non-traditional Vegas day, but that's what we wanted - and what Ellie's paws demanded.
+
+<img src="/images/2024/PXL_20241123_222919004.jpg" width="45%">
+
+
+Then we were off on the last leg of this part of the trip - to San Diego! We stopped at an outlet mall and wandered through the bushes behind the stores until Ellie _finally_ pooped. She hadn't pooped at all in Vegas - there was basically no grass to be found, she was _not a fan_ of the astroturf dog park in the complex we were staying in, and she _really_ hated that all the lawns had rocks instead of grass. Good to know - Las Vegas is not a place Ellie ever wants live. We also got some In-n-Out, saw lots more Joshua Trees on the drive, and made it home! Thanksgiving here we come!
+
+<img src="/images/2024/PXL_20241123_235042462.MP.jpg" width="45%">
+
+
+## [Nov 22, St George, UT -> Las Vegas, NV](#nov22)
+
+We weren't sure how today would go, so we got up very ready to play things by ear. I got some good work done, and then we seemed to be on track to get out of St George by mid morning but alas - the part they'd ordered hadn't arrived so we'd have to wait till at least 4 or 5 for the part to come from Vegas (ironically our next stop).
+
+<img src="/images/2024/PXL_20241122_192724245.jpg" width="45%">
+
+We walked to the mechanic to drop our stuff off, and then grabbed a Lyft (Ellie's first!) to a nearby park next to a large conservation area (Red Cliffs Park). The park was super lovely, with a great desert garden with a million different plants, all labeled! 
+
+We killed some time there, and then walked down to a brewery which turned out to be the same brewery we'd seen in Zion while waiting for the tow truck! (But we'd unfortunately seen it _after_ waiting for 40 minutes, and so didn't have time to get a beer. Second chances do exist.) Ordered some Thai takeout and chilled in the brewery for a couple of hours - it was in an old firehouse and one of those places with many different levels of bar, all decorated and furnished differently. We hung out on the balcony long enough to get scorched by the sun and realize we were locked out there, and then moved to a room with comfy couches. An hour or so in, they started playing music straight out of our childhood - the Gen Z bartender told Ben they were trying for an "emo night" and wow did they nail it. 
+
+<img src="/images/2024/PXL_20241123_000500952.jpg" width="45%">
+
+All in all a lovely experience and well-deserved chill (especially for Ellie, whose paws had been starting to hurt after so much hiking in the rocky Utah desert!) If you find yourself in Zion or St George, highly recommend Zion Brewery. 
+
+We got a call around 4 that the car was ready and made our way over, and then headed straight to Vegas! We went straight to my friend Lucy's place where she was hosting a Thanksgiving with colleagues, and then to her partner's dog-friendly place for the night. An adventure!
+
+<img src="/images/2024/PXL_20241123_005031973.jpg" width="45%">
+
+
+## [Nov 21, Panguitch, UT -> ~~Las Vegas, NV~~St George, UT](#nov21)
+
+Our last Utah day! Or so we thought.
+
+We started the day with a quick jaunt through Bryce Canyon. We went to the rim trail which allows dogs, thinking it'd be a quick easy hike. Except that we more than doubled the length wandering through the various parking lots trying to find our car... D'oh! I forgot how confusing Bryce is. Went to Inspiration Point, then Ben hiked-ran to meet me at Bryce Point (which was by far the best viewpoint). Stunning views throughout, I'm so glad we made the stop.
+
+<img src="/images/2024/PXL_20241121_173236144.MP.jpg" width="45%">
+
+Today was supposed to be mostly driving to Vegas, but we did want to squeeze in a slot canyon if we could. Ben found one that was _right_ on the way ([Red Hollow Canyon Trailhead](https://maps.app.goo.gl/ovGmQGCKF6hLgnB5A)) and which was quite fun. A lovely short wash hike to the slot canyon, which itself wasn't too involved but definitely scratched the itch! 
+
+<img src="/images/2024/PXL_20241121_213426325.jpg" width="45%">
+
+Then a truly stunning drive through Zion - another place that my memory really didn't do justice! I know last trip I said I wanted to come back and hike the east side of the park, but now that we were driving through I'm not sure actually how much hiking you can do among the rocks. But either way, the sentiment stands - truly impressive landscape. This part of Utah is just so amazing - all of the landscapes are quite different from each other and all completely out of this world stunning. Plus, the national parks postcards really do capture the essence of these parks!
+
+<img src="/images/2024/PXL_20241121_230508762.jpg" width="45%">
+
+We stopped at a viewpoint after the long tunnel and smelled some burning, but assumed it was another car. Then we stopped at the visitor center and still smelled it - uh oh. We noticed that my front left wheel was _super_ hot, which had happened earlier this year when my caliper got stuck. Back then, the mechanic didn't have the part so they just got the caliper unstuck but didn't replace it. So we were pretty sure that was happening again, and didn't really want to risk driving on it. 
+
+Had a beer and a wander while waiting for the tow, and then had a lovely tow ride with a very nice man and a surprisingly not that stressed Ellie! Ben found a really great mechanic in St George that could work on the car tomorrow and I booked us a tiny house airbnb nearby - we really lucked out!! All things considered, probably the best outcome for having car troubles...
+
+<img src="/images/2024/PXL_20241122_022906320.MP.jpg" width="45%">
+
+## [Nov 20, Bicknell, UT -> Panguitch, UT](#nov20)
+
+After my meetings, we started the day with a cheeky lil' stop at Capitol Reef National Park for some apple pie! And a lot of gawking at the phenomenal landscape, and the treets - the cottonwood trees! They were still quite yellow and just so stunning. The whole place looked _exactly_ like the national park postcards I love so much. Another place that I don't remember being much to write home about on my last trip, which ended up being a highlight this time. Capitol Reef and Nebraska, who would've guessed!
+
+<img src="/images/2024/PXL_20241120_191522034.MP.jpg" width="45%">
+
+
+Then we headed to the main event: Grand Staircase Escalante National Monument, my favorite place on earth. Obviously via the coolest road too, which snakes through amazingly Martian landscapes of rolling rocks (like rolling hills, but they're rocks). 
+
+<img src="/images/2024/PXL_20241120_204256961.jpg" width="45%">
+
+We went to the Devils Garden [Outstanding Natural Area](https://en.wikipedia.org/wiki/Outstanding_Natural_Area) first and had the last of our leftover pizza among the rocks, before wandering down a wash and having a really great hike. So many cool rocks!!
+
+
+<img src="/images/2024/PXL_20241120_232950300.jpg" width="45%"> <img src="/images/2024/PXL_20241120_222915421.jpg" width="45%">
+
+
+We had considered continuing down the Hole-in-the-Rock BLM road to the awesome trio of slot canyons I went to last time, but it turns out it would have been another 40 minutes and questionable with the pup so we decided to skip it and head back. As we were leaving, we made a spontaneous decision to head down Harris Wash road - into the direction of a stunning sunset. We made it to Harris Wash right as the sun set, and walked a bit down the huge wash before heading back and inching back to the main road.
+
+<img src="/images/2024/PXL_20241121_001913555.jpg" width="45%">
+
+
+Some easy ramen at our Airbnb (which was clearly a party airbnb -- bare kitchen cabinets, thick stench of bleach, and three bedrooms plus a HUGE couch), and then bed for our next adventure.
+
+## [Nov 19, Moab, UT -> Bicknell, UT](#nov19)
+
+Staying at Airbnbs while in Utah means doing a bit of work meetings in the morning before heading off for adventures. 
+
+Started our proper day with a super lovely hike in Moab, Grandstaff Canyon. Hiked through a lovely canyon with a few easy water crossings, lots of sand, and great views. At the end is a really big arch - the sixth biggest in the world! Ellie also got to play with some pups at the dead end under the arch.
+
+<img src="/images/2024/PXL_20241119_192926492.jpg" width="45%"> <img src="/images/2024/PXL_20241119_200738922.jpg" width="45%">
+
+Then we were off to Dead Horse Point State Park - I wanted to show Ben some real canyon views because he hasn't been to the Grand Canyon, and Canyonlands doesn't allow dogs. We had lunch while Ellie stared intently at a chipmunk that was mocking her, and then walked along the rim. Really great views! Except for the salt flats, which were a bit of an eyesore. Definitely not as incredible as Grand Canyon or Canyonlands but still very impressive. And fun to walk right up to the edge, ahhh!
+
+<img src="/images/2024/PXL_20241119_225454201.jpg" width="45%">
+
+
+I'd hoped to make it to Goblin Valley State Park on our way but it was way too ambitious of a plan, so we just headed to our next Airbnb in Bicknell. Fun to drive through Capitol Reef and marvel at what the heck is going on with the tiny bits we could see by headlight.
+
+Only one place in town was open for dinner, Curry Pizza! Turns out a guy who owned an Indian restaurant once stopped in Bicknell for pizza, had the worst service ever, saw that the restaurant was for sale, bought it, and the rest is history! Except that he didn't know anything about pizza so he traveled the US to learn about Indian pizza and now that's what there is in the middle of nowhere Utah. We didn't get the pizza because we'd just had (non Indian) pizza, but the Indian food was really good!
+
+
+## [Nov 18, Rabbit Valley, CO -> Moab, UT](#nov18)
+
+We survived the night! I put on an extra layer and wasn't cold at all, and made sure that Ellie was covered by her blanket any time I woke up in the night. She didn't seem anywhere near as miserable in the morning as she did after our first chilly night. 
+
+<img src="/images/2024/PXL_20241118_152143390.jpg" width="45%">
+
+It turns out that Moab, where Ben is flying into tomorrow and where my Airbnb doesn't check in until 4 pm, is only an hour and half away from where I slept. So I had a fun challenge ahead of me for how to fill the time! Jk it wasn't a challenge at all, the answer is: wander the desert.
+
+<img src="/images/2024/PXL_20241118_164051688.jpg" width="45%">
+
+Started with the Trail Through Time which was quite lovely and had some dinosaur bones! Changed out of my layers and got ready for a longer hike, the Rabbits Ear trail. It's about 6ish miles and was a lot of fun! I had Ellie off leash for almost the whole time, which was great because once she started getting tired her on-leash walking was more like walking a few steps, then stopping right in the trail until I bumped her to continue. 
+
+<img src="/images/2024/PXL_20241118_203014314.jpg" width="45%">
+
+I stopped for lunch at the top with amazing views of the Colorado, and tired Ellie had a bit of a lay. We also met a couple of dogs in the parking lot after the end of our hike, which was fun.
+
+<img src="/images/2024/PXL_20241118_200239044.jpg" width="45%">
+
+
+Then off to Moab to our very cute Airbnb with amazing views. Had a chill evening catching up on Instagram and work, and then off to pick up Ben at the airport!
+
+## [Nov 17, Denver, CO -> Rabbit Valley, CO](#nov17)
+
+Woke up super early planning to go on a run before breakfast. Ended up passing a great dog park, and Ellie was calm and redirectable when two dogs came to say hi so I figured we'd give it a shot! She did great, took a bit to warm up but then wanted to play and was so happy whenever a new dog came. 
+
+<img src="/images/2024/PXL_20241117_151134083.jpg" width="45%">
+
+Had breakfast with a friend from high school. So fun catching up and hearing about all of her ventures! Definitely adds a tally to the "freelance and live out of a van" career path option....
+
+Next stop, almost Utah! My friend recommended Loveland pass for the views and she was right, they were great! Ellie and I hiked up a much more strenuous hill/mountain than I expected, but we both had a lot of fun. The elevation is no joke!! I let Ellie off leash for a little bit and once she realized it she sprinted downhill and then regretted that decision when it was time to come back to me lol. 
+
+<img src="/images/2024/PXL_20241117_205929731.MP.jpg" width="45%">
+
+Then straight shot to my campsite for the night, though I really should have stopped to re-up on water ah well. Also, I remember really disliking driving over the Rockies last time, in part because it was snowing pretty hard. But even in the bright sunny weather, I didn't like it this time either - there are so many intense signs about runaway trucks and lost brakes and trucks are your brakes smoking. No thank you! 
+
+Tonight is my first BLM campsite, it's across the highway from where I stayed on my last trip. Back then this area was free though! It's ok there's a pit toilet here. I'm very excited to be back in BLM land. Let the fun begin!!
+
+<img src="/images/2024/PXL_20241118_025620373.jpg" width="45%">
+
+
+
 ## [Nov 16, Lexington, NE -> Denver, CO](#nov16)
 
 Another great Nebraska day!! Today was pretty chill, since I only had about 5 hours to drive and would lose an hour with the time change, but my AirBnB check-in wasn't till 3 pm.
