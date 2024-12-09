@@ -10,7 +10,7 @@ Slept surprisingly comfortably despite the dampness and the three or so trains t
 
 Made it out of the Harvest Host in maybe record time - just around an hour. I took Ellie on a very short but productive walk (pee AND poop!), made breakfast, and packed my stuff for Airbnb'ing later that night. Unfortunately Ellie didn't want to eat - I guess I only get either consistent bathrooming OR consistent eating, not both.
 
-The weather was supposed to be gray and rainy all day with the rain picking up at night, so I'd decided to just book an Airbnb in Memphis rather than try to camp in the damp again. I still owed Ellie a good walk to break up the drive though, rain or no rain. We stopped in Little Rock to hike Pinnacle Mountain, which was very wet but also very fun. The top was fully in the cloud of drizzle so I could see absolutely nothing.
+The weather was supposed to be gray and rainy all day with the rain picking up at night, so I'd decided to just book an Airbnb in Memphis rather than try to camp in the damp again. I still owed Ellie a good walk to break up the drive though, rain or no rain. After a drive with two great friend chats, we stopped in Little Rock to hike Pinnacle Mountain. It was very wet but also very fun. Lots of scrambly rocks to get up and done and the top was fully in the cloud of drizzle so I could see absolutely nothing.
 
 Got back in the car for the other half of our drive. The nice thing about hiking in the rain and then driving two and half hours is that you have time to dry off!
 
