@@ -4,6 +4,109 @@ permalink: /travel24/
 author_profile: true
 ---
 
+## [Dec 8, Sulphur Springs, TX -> Memphis, TN](#dec8)
+
+Slept surprisingly comfortably despite the dampness and the three or so trains that came by during the night. I was worried that Ellie would be cold because her bed was a little wet, but she seemed fine. 
+
+Made it out of the Harvest Host in maybe record time - just around an hour. I took Ellie on a very short but productive walk (pee AND poop!), made breakfast, and packed my stuff for Airbnb'ing later that night. Unfortunately Ellie didn't want to eat - I guess I only get either consistent bathrooming OR consistent eating, not both.
+
+The weather was supposed to be gray and rainy all day with the rain picking up at night, so I'd decided to just book an Airbnb in Memphis rather than try to camp in the damp again. I still owed Ellie a good walk to break up the drive though, rain or no rain. We stopped in Little Rock to hike Pinnacle Mountain, which was very wet but also very fun. The top was fully in the cloud of drizzle so I could see absolutely nothing.
+
+Got back in the car for the other half of our drive. The nice thing about hiking in the rain and then driving two and half hours is that you have time to dry off!
+
+In Memphis now, after having had delicious fried catfish for dinner. And I realized that my next planned Harvest Host night was *also* going to be a rainy night so I went ahead and Airbnb'ed that one too. It's nice to be able to use money to pay for comfort...
+
+## [Dec 7, Austin, TX -> Sulphur Springs, TX](#dec7)
+
+Woke up in a bit of rough shape, took Ellie on a short walk where she peed (yay!), and then slowly muddled my way through breakfast and packing up. 
+
+I got matcha and tacos at Radio nearby, then went to McKinney State Park for a rainy jaunt. It was actually super nice - this place is like twenty minutes from where I grew up I have no idea why we didn't come here more often!! Very cool rock formations and fun hiking. Would also be fun to swim in the summer. And bonus, Ellie peed *and* pooped!
+
+Then I just drove in the rain to Sulphur Springs. I stopped in Waxahatchee for a quick walk, it was very cute and I got another pee! I got to my Harvest Host and ate a delicious chicken sandwich standing out on the covered porch, chilly but at least dry. 
+
+## [Dec 6, Austin, TX](#dec6)
+
+Had a bunch of meetings in the morning and then went back to the really nice park for a short run. We met so many off leash dogs and Ellie did great with all of them!!
+
+Quick shower and then I headed to a nearby brewery to meet friends. Here again Ellie did so well! The highlight was at the end of the night, when we had moved inside, she laid down by our table and even had a full flop for a hot sec.
+
+It was so nice to catch up with Shelby, Jettie, and Wes. Coming back to Austin always gives me such a mix of emotions - I'm sad to be so far and so removed from my friends' lives, and I always end up feeling nostalgic and also maybe a little regretful. Parallel timelines, figs, [paths not traveled](https://www.gocomics.com/zen-pencils/2013/10/21), etc etc.
+
+## [Dec 5, Austin, TX](#dec5)
+
+Sad and dreary Austin day. I worked in the morning and then to Ellie to a nearby park on my way to the orthodontist. The park was so nice! Lots of off leash dogs but they were all very chill. I went to my orthodontist after twenty years because I've been having issues with my bottom retainer, and I really don't like the orthodontist I found back home. He remembered me and the whole family! And did a much better job than the other guy. And! I got some more of their indestructible pens. 
+
+On my way back I decided to stop by my old neighborhood. It was on the way and I needed to walk Ellie anyway. Went into the greenbelt and found our old treehouse - I instinctually knew that clump of trees was it as soon as I saw them. There were still a couple boards up! Also walked a bit through the greenbelt trail and found our old house. It's funny how many details I remember - this was Eli's house and that was Nicolette and so on. My guess is I'll remember those names and recognize the houses forever. 
+
+I then continued my pilgrimage to HEB, the very one I worked at. Interestingly I remembered very little about the layout, but the smell did definitely take me back. Bought a bunch of random stuff and then went to do a couple more errands before heading back.
+
+Kerbey queso for dinner with a sweet Ellie resting her head on my lap, some journaling and Elsbeth and bed time.
+
+## [Dec 4, Odessa, TX -> Austin, TX](#dec4)
+
+Driving from Odessa to Austin - "bleak drive" as one of my Austin friends immediately remarked. 
+
+Stopped at San Angelo State Park for an intermission hike, which was pretty nice. 
+
+Then straight to Austin. I was gonna stop again but Ellie was sleeping and seemed fine. Took her on a walk when I got to the Airbnb, and holy crap was I taken aback by the number of dogs in their yards barking their heads off at us. It felt like every other house on a few of the blocks!! Not a fan. But I did manage to find an entry into the nearby greenbelt, where Ellie promptly peed into the tall grass as soon as she saw it.
+
+## [Dec 3, Oliver Lee Memorial State Park, NM -> Odessa, TX](#dec3)
+
+Great first-thing hike into the canyon I'd been to the night before to get Ellie to poop. Much less creepy in the daylight! This is a very lovely park.
+
+Headed to White Sands again, did the Alkali Flats hike (about 4 miles). It was so nice - I wasn't worried about Ellie's paws because the sand was soft and cool, and even though it was pretty hot she was drinking regularly when I gave her water so she didn't seem overheated at any point. And at the end we met a woman and her dog Brodie, who Ellie had fun swatting like she does Skky. It was a fun conversation and a really great hike. I had been considering turning back before the full loop, but I'm glad I went all the way - seeing the dunes open up to the flat sand was quite cool.
+
+Then a straight 5-hour drive to Odessa, TX. I have to say this was probably my least favorite drive of the trip so far -- the first hour or so through the mountains outside of Alamogordo were beautiful, but then it got to fields of oil rigs and just straight, flat, boring but also industrial road. New Mexico is also much bigger than I realized, it felt like forever until I crossed into Texas.
+
+Best part of the drive was finishing Daisy Jones and The Six. I think this is the trip I discover audiobooks!
+
+Staying at an Airbnb tonight before heading to Austin tomorrow! Excited for friends, tacos, and HEB.
+
+## [Dec 2, Indian Bread Rocks, AZ -> Oliver Lee Memorial State Park, NM](#dec2)
+
+The southwest really gets it. Another great day! 
+
+Had a couple of work meetings in the morning which I unfortunately didn't have great service for, but it worked out anyway. I've noticed that Ellie will whine for a few minutes when I'm sitting and have her tied up, but after a bit she'll decide to settle. By the end of my calls she was laying down and chill, which was great to see. 
+
+We met a fellow traveler and his pup (who drank Ellie's water which then motivated her to finally freaking drink), and then had a bit of a scramble up some rocks and followed a cow trail into the many other rocks. Lots of spiky bushes so I turned around after a bit. 
+
+Then straight shot to White Sands National Park, with just one stop at an award winning rest stop for lunch. (Did they stop giving out the award in 1992, or...?)
+
+Wow, White Sands was amazing. Truly stunning and awesome to be there for sunset. We just wandered through the dunes and practiced our recall (Ellie hadn't eaten all day so she was *very* responsive to my treats). There was a wedding happening right at sunset, freaking stunning. Interestingly it was quite a different experience than the Great Sand Dunes National Park in Colorado - these dunes were much more solid and easy to walk on, while those are very sandy. These dunes also seem less tall and like they cover maybe a larger area? It's funny how both of these places have beautiful sand dunes, but are stunning in much different ways.
+
+I loved it so much I decided that I wanted to come back for a proper longer walk tomorrow. The way to make that not stressful was to book an Airbnb for tomorrow, so I wouldn't have to worry about timing my departure or anything. Big fan of solving problems with money. 
+
+Tonight was also a change of plans, I'm staying at a campground near the park instead of going a bit further to a national forest campsite. Only $10 and I got a hot shower, yes please! 
+
+## [Dec 1, Vekol Valley Rd, AZ -> Indian Bread Rocks, AZ](#dec1)
+
+Man, this was close to a perfect road trip day. Arizona does not disappoint!!
+
+I slept without the back window covered in the hope that it would motivate me to get up more quickly. Not sure how well that worked, but I loved waking up to the view immediately. 
+
+After breakfast my first stop was Picacho State Park, per my parents' recommendation. It was awesome, such a cool landscape and a fun hike. I turned back after about a mile because Ellie was really having a rough time with the heat and sun. My poor black dog is not made for the desert, alas. She did great in her booties though! And I was very relieved to worry less about her paws on the super rocky ground. 
+
+Next stop: Saguaro National Park! Had lunch at a nice shaded picnic area and then went for another hike on one of the few dog friendly trails here. Those saguaros are something else... The ranger had recommended a paved desert loop trail because it has great smells (for the pup), but I missed it on the way out and figured that Ellie had probably already had a good fill of smells for the day. 
+
+I definitely want to come back to these two parks without a dog! That said I'm quite pleasantly surprised at how nice it is to visit national parks with a dog. When you're on a tight schedule like I am, you don't really need much more than a short trail. Obviously a different experience than hiking all day for multiple days, but I'm really happy with how fun it's been despite the limitations from the dog. 
+
+I was originally planning to stay at an unknown campsite tonight, but instead decided to head to Indian bread rocks which is somewhere I stayed in 2019. It only adds 30 minutes to my driving time tomorrow and I remember it being really great. Sure enough, it's stunning even in the dark. Best stars I've seen yet!! Took a little bit to find a flat site and ended up parking near enough to my neighbor to hear their generator. But at least I'm close to the entrance which is where the pit toilet is! You know I love me a good pit toilet...
+
+## [Nov 30, San Diego, CA -> Vekol Valley Rd, AZ](#nov30)
+
+Headed back on the road today, this time: east! Took me much longer to pack up and leave than I expected, but then again I had a lovely morning - went for a run, had the last of the Thanksgiving biscuits for breakfast, and gave the fam a tour of the car. Cribs meets pimp my ride. 
+
+Grabbed a burrito on my way out of San Diego and thought to look up the two trails Janyne had recommended that were on my way today while waiting for my food (I promise I plan better sometimes). One of them seemed to need high clearance to get to the trailhead so I went with the other, even though it added like an hour and a half. What's life if not time that you use to do things? 
+
+Got to the trail about an hour before sunset. Really nice short loop with lots of great views. Ellie didn't love her booties but also didn't mind them too much (except for her front right paw, she _hated_ that one). 
+
+Drove a couple minutes to a nearby viewpoint for what I intended to be a leisurely burrito dinner, but then I realized that I dropped my long sleeve on the hike and rushed back to look for it before the sun fully set. It was right at the beginning of the trail, I'm pretty sure it feel literally the first time I got my phone out of my bum bag. I would've redone the entire trail to find it though, I love that fruit shirt.
+
+After that micro adventure, straight shot to my camp for the evening - BLM land off the highway. (With some excellent singing along to old Ben Folds.) Was surprised to see quite a few RVs here, I'm not used to seeing many others on BLM land and especially not in winter. But this area seems lousy with off roading opportunities so I'm not that surprised it's busy. 
+
+And now I'm typing this up on my phone as Ellie voraciously sniffs every bush for the things living under it, while I wish she would just pee. The life!
+
+
 ## [Nov 23, Las Vegas, NV -> San Diego, CA](#nov23)
 
 Our Vegas day started with a phenomenal brunch prepared by Lucy and her partner - yum! We'd initially planned to go hiking but Ellie was definitely limping on the rocky ground, so we opted instead to do a bit of off roading (in Lucy's partner's brand new car, lolol oops). Our plans were a bit foiled by washed out ruts, so we pivoted and went to a mountain biking area with - surprise! - Joshua Trees! And also gale-force winds, holy cow. 
