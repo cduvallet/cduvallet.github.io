@@ -4,6 +4,70 @@ permalink: /travel24/
 author_profile: true
 ---
 
+## [Dec 14, Brooklyn, NY -> Greenwich, CT](#dec14)
+
+NYC day today! I took Ellie on a long morning walk back to Prospect Park, and she did _so great_. There was SO MANY dogs -- I can only imagine her realizing "omg there are this many other dogs in the world??" I also think that inundating her with all of the dogs made it easier for her not to react, there was always another dog to try to greet! She did so great though, at one point we even went into the big field where all the dogs were playing, and she just sat and watched. Anytime she looked at me she got a treat, and she picked it up pretty quickly. She's also starting to react to my "Is that a dog?" cue which is great. Not foolproof yet, but definitely something.
+
+I got back to the apartment and got a bagel breakfast and matcha, my favorite NYC treat. Megan and I hung out in the apartment until the early afternoon, and then I went off to walk Ellie again before meeting up with Megan, her mom, and her friend at a nearby bar. The bar allowed dogs inside and Ellie did great! She basically laid down the whole time, save for when we were eating wings during which time she really cozied up to Megan's friend.
+
+After that, went back to Megan's apartment to order dinner and say goodbye, and then headed up to an airbnb north of the city to stay the night before heading home tomorrow (!!)
+
+It's been a great trip full of reflection and growth, both for me and Ellie! I'm so proud of how well Ellie did throughout the whole trip - from paw care to toothbrushing to city life to dog reactivity to bars - and of how much she's grown. I'm very excited for this pup's continued growth. :) 
+
+And I'm excited to be back in a bed that is mine and that I stay in multiple nights in a row!!
+
+## [Dec 13, Washington, DC -> Brooklyn, NY](#dec13)
+
+Another work morning today, then I was off to New York. I found a state park about an hour away from DC to take Ellie, and ended up hiking around for about two hours -- basically twice what I'd intended! So I got to New York later than I intended, but still early enough to catch Megan before bed.
+
+I took Ellie to her first NYC walk - Prospect Park - and she did great! She didn't seem bothered at all by the big city energy, she was just excited to have so many things to smell. Then we went back to the apartment to hang out. It took Ellie a while to settle - she had to try out every possible sleeping surface and ended up deciding that she didn't like the futon bed on the ground but instead wanted us to make room for her on the couch. Which we happily obliged.
+
+I haven't slept in a non-queen-sized bed on this trip yet, so I had to fight her a little bit to get off my bed before going to sleep. She eventually gave it, and slept wonderfully on her dog blanket next to me.
+
+## [Dec 12, Washington, DC](#dec12)
+
+Today was a nice chill day. Worked in the morning and early afternoon, and then headed back into DC to meet up with Scott. I was planning to take Ellie to Rock Creek Park for a jaunt before dinner, but ended up parking at a picnic area in a valley with no accessible trails -- I thought I could just bushwack to the nearby trails but did not account for the topology, d'oh! But through our powers combined (and Ellie's newly learned "cross" cue, which means "please beeline across the street without stopping in the middle like you like to do"), Scott and I met up and found a bit of woods to walk through.
+
+We then got dinner and drinks at a great Iranian place (I got a Saz'iraq, so good), which was delicious and great fun. Went back to check in on Ellie and walk her a little, then got one more drink at a bar before calling it a night.
+
+When I got back to the Airbnb, Ellie was _extremely_ playful (in the fenced in yard) - it was very cute! Also quite fair, she'd been very patient in the car for quite a while, and I was grateful that she didn't seem more upset with me.
+
+## [Dec 11, Damascus, VA -> Washington, DC](#dec11)
+
+A surprisingly great day, despite it being mostly just driving!
+
+I woke up to more rain, blarg. Felt a spark of motivation so did a little bit of work and then headed off to a nearby hike recommended by my Airbnb host - part of the Appalachian trail! It was raining/sleeting/snowing on the drive, so I was _not_ looking forward to driving in that terrible weather the rest of the day. I timed the hike perfectly though - the rain let up and turned to extremely light snow right when we started walking. Hiked for about an hour and a half on a lovely trail with a bunch of different landscapes - meadows, a spring, multiple forest types, oh my!
+
+I got back in the car and headed to grab lunch at a curbside / drive-in diner that I found on [Roadfood](https://roadfood.com/) -- I can't believe I'd never heard of this website before! The burger was delicious and they even gave Ellie a milkbone, so she also got some lunch.
+
+Then it was off to DC, about 5ish hours away. The rain completely stopped and it ended up being clear weather the whole way, phew! I thought about stopping at Shenandoah National Park for another short hike and maybe for sunset, but my ETA was about 5:15 which I figured was too late. Ellie was also completely _out_ for the whole drive so I didn't think she was missing another walk. Got to DC and met up with Scott at the National Mall as we walked around the various monuments while Ellie tried desperately to chase ducks and rats.
+
+Now I'm at an Airbnb with a fully fenced-in backyard and Ellie is happy as a peach.
+
+## [Dec 10, Nashville, TN -> Damascus, VA](#dec10)
+
+Today was mostly a driving day, with a bit of work in the morning. I also had a later checkout than most Airbnbs I've stayed in, so was able to go for a run before leaving. Turns out Ellie is a big fan of suburbs - she had no problem bathrooming (even in short grass!) and we had a nice time running on the quiet streets. Maybe she was a rich family's dog in a past life.
+
+I had a long drive to Damascus, VA where I'd found a very cheap Airbnb when it looked like the weather was gonna be super cold tonight. (It didn't end up being very cold, but it was still rainy and windy and miserable, so I'm glad I shelled out the $57 for a building!) 
+
+I found what seemed to be a gorge-ous state park on the way, Cummins State Park. Unfortunately the gorge trail was closed so I only got to see the waterfall from the top view point. Still beautiful for sure, but I wanted to hike through a gorge! Foiled again, I guess that's not a rainy season kinda thing to do...
+
+Got to Damascus later than I'd hoped and was feeling very pooped. I knew Ellie needed to bathroom so I took her on a walk, but it was so rainy and windy that she was really on edge and distracted (and eating poop or dirt or something on the ground she was really interested in, ugh). Plus it was dark and rainy and windy so I was kinda on edge too, not a fan.
+
+
+## [Dec 9, Memphis, TN -> Nashville, TN](#dec9)
+
+t's a different kind of road trip now, but also really great. I officially have places to stay booked until I get home - combination of cities and bad weather and I'm living that Airbnb life (minus one night in NYC with Megan - wish us luck in the big apple!!)
+
+Today was also a great road trip day. I only had 3.5 hours to drive so I had a lazy morning catching up on photos, then went to the nearby park for a walk and a really great time at the dog park. Ellie had so much fun! And we even met a dog more submissive than Ellie, didn't think it was possible. 
+
+Then I decided to take a chance on brunch with Ellie and it worked out great! There was only one other table on the patio so I was able to eat in peace, guess that's the nice side effect of gray weather. It was very delicious. 
+
+Then a short drive to Nashville (which felt surprisingly long - I was really tired for some reason!) Fed and walked Ellie - both successfully!! - and then I decided to go to a brewery. It was great - the vibe started off really quiet, just the bartender and a few of his friends playing Mario kart on one of the bar TVs. Then a *bunch* of people showed up, not exactly sure what was going on but they seemed like sort of people who knew each other but also some strangers. Ellie did great through it all, even laying down fully at the peak of the busyness. So so proud. 
+
+Got some Nashville fried chicken on the way home and now I'm back at our cute Airbnb! Let's see if I can convince myself to do some work tomorrow morning...
+
+
 ## [Dec 8, Sulphur Springs, TX -> Memphis, TN](#dec8)
 
 Slept surprisingly comfortably despite the dampness and the three or so trains that came by during the night. I was worried that Ellie would be cold because her bed was a little wet, but she seemed fine. 
