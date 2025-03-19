@@ -28,6 +28,7 @@ _Scientist, STEM_
 - Launch communication coaching program for early-stage founders leading non-profit initiatives in STEM Equity and Education (in collaboration with [Founder to Leader](https://www.foundertoleader.com/)).
 - Work with Chief Scientific Officer and Strategic Advisors to set Science for America's direction in STEM Equity and Education.
 - Define internal team strategy, manage Science for America fellows, and establish positive and collaborative culture within Science for America.
+- Manage 3 part-time Science for America Fellows working on independent projects.
 
 **Freelance consulting** (2023-present)
 _Computational biologist, data scientist, and technical advisor, Skkellie LLC_
@@ -41,7 +42,7 @@ _Computational biologist, data scientist, and technical advisor, Skkellie LLC_
 
 
 **Biobot Analytics** (2019-2023)  
-_Founding Staff Data Scientist (Nov 2022 - present)  
+_Founding Staff Data Scientist (Nov 2022 - Mar 2023)  
 Founding Technical Lead, Data Science (Dec 2021 - Nov 2022)  
 Senior Data Scientist (Mar 2021 - Dec 2021)  
 Data scientist (Jul 2019 - Mar 2021)_  
@@ -64,7 +65,7 @@ As an early employee of Biobot Analytics, I wore many hats and did many things:
 *Under the direction of Eric Alm*
 
 I did my PhD in [Eric Alm's lab](http://almlab.mit.edu/) at MIT.
-You can learn more about my research interests on our [lab website](http://almlab.mit.edu/claire_duvallet.html) and on my [publications](/publications/) and [research](/research/) pages.
+You can learn more about my research interests on my [research](/research/) and [publications](/publications/) pages.
 You can download my [thesis](https://www.dropbox.com/s/elvp8qzrz3zsjyx/duvallet_thesis_final.pdf?dl=0) and [defense slides](https://www.dropbox.com/s/j4b11wa8a4r42j8/2019-01-11.defense.pdf?dl=0), and also view them on my [github](https://github.com/cduvallet/phd-thesis).
 
 **Molecular and Microscale Bioengineering Laboratory**, Columbia University (2011-2013)
@@ -82,51 +83,9 @@ There, I worked with Cedric Norais to study the acquired-immunity CRISPR system 
 
 ***
 
-# Publications
+# Publications and presentations
 
 See [publications](/publications/) page.
-
-***
-
-# Presentations
-
-## Oral presentations
-
-March 2023 - [HSPH Center for Communicable Disease Dynamics](https://ccdd.hsph.harvard.edu/) [ID Epi Seminar Series Spring 2023](https://ccdd.hsph.harvard.edu/id-epi-series-2023/). [Watch the recording](https://www.youtube.com/watch?v=2qSMnaCxtwc).
-
-Oct. 2022 - [MIT Microbiome Club](https://microbiome.mit.edu/for-students/microbiome-club/) Industry Seminar.
-
-Mar. 2022 - "Supporting a nationwide Covid-19 wastewater monitoring program." WEF Public Health and Water Conference, Wastewater Disease Surveillance Summit.
-
-June 2021 - [Boston Society of Civil Engineers](https://www.bsces.org/about/special-funds/john-r-freeman-fund-167) 2021 Freeman Lecture.
-
-May 2021 - "Wastewater analysis to understand community consumption of opioids." [EAPCCT](https://www.eapcct.org/) 2021: Toxicology 2.0.
-
-Aug. 2019 - "24-hour multi-omics analysis of residential sewage reflects human activity and informs public health." American Chemical Society National Meeting. Wastewater-Based Epidemiology: Opportunities, Challenges & Applications to Public Health & Safety.
-
-Apr. 2019 - "Intro to microbiome data visualization." Cornell University 2019 Microbiome Hackathon: [Microbiome Hack](http://microbiomehack.org). Slides: [cduvallet.github.io/mbiome-data-viz/](https://cduvallet.github.io/mbiome-data-viz/)
-
-Feb. 2019 - "Tips, tricks, and philosophies on computational work." Alm lab summit. Slides: [cduvallet.github.io/phdchat-philosophies/](https://cduvallet.github.io/phdchat-philosophies/)
-
-Nov. 2018 - "Framework for rational donor selection in fecal microbiota transplant clinical trials." [International Conference on Microbiome Engineering](https://www.aiche.org/sbe/conferences/microbiome-engineering/2018).
-
-May 2018 - "Distribution-based methods to increase power and reduce redundancy in microbiome data." Teaching and Developing QIIME 2 Workshop. ([abstract](https://docs.google.com/document/d/1AJS6E6zKC3vB87L6lE3jkbEnqKKbmAUklx2LNP5xn0k/edit?disco=AAAAB30XTS8&ts=5ae86df5#heading=h.nu9k79xrnqy2))
-
-Mar. 2018 - "Meta-analysis to identify consistent disease-associated microbiome shifts." [MIT-Harvard Microbiome Symposium](https://microbiome2018.wordpress.com/).
-
-Feb. 2018 - "Aspiration changes relationships in the aerodigestive microbiome." [Bioengineering and Toxicology Seminar](https://be.mit.edu/news-events/bats)   
-
-Oct. 2017 - "Meta-analysis to identify consistent disease-associated microbiome shifts." [MIT Department of Biological Engineering Retreat](http://be-retreat.mit.edu/).
-
-Oct. 2016 - "The human gut microbiome in health and disease." [Bioengineering and Toxicology Seminar](https://be.mit.edu/news-events/bats)   
-
-## Poster presentations
-
-Mar. 2018 - "Meta-analysis to identify consistent disease-specific and shared responses." [MIT-Harvard Microbiome Symposium](https://microbiome2018.wordpress.com/). [pdf](/files/2018-03-21.symposium_poster.pdf)
-
-Mar. 2018 - "Meta-analysis of gut microbiome studies identifies disease-specific and shared responses." [Women in Data Science Cambridge](https://www.widscambridge.org/). [pdf](/files/2017-10-10.be_retreat_poster.pdf)
-
-Jan. 2018 - "Meta-analysis of gut microbiome studies identifies disease-specific and shared responses." [Pacific Symposium on Biocomputing](https://psb.stanford.edu/). [pdf](/files/2017-10-10.be_retreat_poster.pdf)
 
 ***
 
@@ -140,13 +99,11 @@ _[Read more](https://cduvallet.github.io/posts/2019/03/co-first-non-academic) ab
 
 **MIT-Harvard Microbiome Symposium**, *co-founder and Organizing committee* ([2016](https://microbiome2016.wordpress.com/) and [2017](https://microbiome2017.wordpress.com/))
 
-[**MIT Biotech Group**](http://biotech.mit.edu/), *Beyond the Bench Initiative board member* (2017-2018)
-
 ## Departmental and MIT
 
 **Graduate Student Council Diversity and Inclusion Subcommittee**, *Vice Chair and Department and Classroom Inclusion co-coordinator* (2017-2019)    
 
-In this role, I coordinated and oversaw semesterly conduit assemblies, which bring together diversity representatives from all MIT departments.
+In this role, I coordinated and oversaw semesterly conduit assemblies, which bring together diversity representatives from all MIT departments. I also set the foundation for expanding application assistance programs across MIT, which [seems to have worked](https://oge.mit.edu/community-diversity/prospective-students/graduate-application-assistance-programs-gaap/)!
 
 [**BE Graduate Student Board**](http://begradboard.mit.edu/), *Diversity Chair* (2015-2018)    
 
@@ -158,31 +115,27 @@ As Diversity Chair, I co-started the [BE Application Assistance Program](http://
 
 **Graduate Student Advisory Group for Engineering (GradSAGE)**, Advisory group to the Dean of the School of Engineering, *Advisor/advisee relations subcommittee* (2017-2019)
 
-## Mentorship
+## Mentorship & Outreach
 
 [**Insight Health Data Science Fellows**](https://www.insighthealthdata.com/), Supervised two data science fellows (Sep-Oct 2019).
 
 [**MIT SuperUROP Program**](https://superurop.mit.edu/), Microbiome superUROP mentor (2016-2017). Supervised one undergraduate researcher.
 
-## Outreach
-
 [**Science Club for Girls**](http://www.scienceclubforgirls.org/) [Young leaders in STEM program](http://www.scienceclubforgirls.org/teen-programs-overview) (Summer 2016 and 2017). Developed and taught three-day course on microbiology and the human microbiome.
-
-[**Mr. John Bartucz**](http://www.bartucz.com/mrbartucz/2017-speakers/)'s computer science class (2017). Introduction to my career path and research.
-
-[**MIT SPLASH**](https://esp.mit.edu/learn/Splash/index.html) (2015). "Microbiome 101: What's in your poop?"
-
-[**E3: Empowering, Encouraging, and Eliminating Barriers for Women in STEM**](http://e3mentoringprogram.wixsite.com/home) (2015). Mentor and guest presenter.
 
 ## Reviewer
 
-I serve as a peer-reviewer in my field. A subset of my peer reviews can be found on my [Publons profile](https://publons.com/researcher/3183036/claire-duvallet/).
+[**J.M.K. Innovation Prize**](https://jmkfund.org/), *Reviewer* (2019, 2023, 2025)
+
+[**Growth Accelerator Fund Competition**](https://www.americasseedfund.us/accelerators), U.S. Small Business Administration, *Stage One Reviewer* (2024)
+
+**National Institute of Justice** Research and Development in Forensic Science for Criminal Justice Purposes, *Grant reviewer* (2020, 2023-present)
+
+[**Peer reviewer**] During and after graduate school, I served as a peer-reviewer in my field (though I no longer provide free labor for for-profit publishers). A subset of my peer reviews can be found on my [Publons profile](https://publons.com/researcher/3183036/claire-duvallet/).
 
 [**MIT IDEAS Global Challenge**](https://studentlife.mit.edu/ideas), *Reviewer* (2015-2018)    
 
 [**MIT Summer Research Program (MSRP)**](https://odge.mit.edu/undergraduate/msrp/), *Reviewer* (2018)    
-
-[**MIT Committed to Caring**](https://odge.mit.edu/community/committed-to-caring-c2c/), *Reviewer* (2017)   
 
 ## Extracurriculars
 

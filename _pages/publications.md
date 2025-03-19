@@ -12,7 +12,7 @@ A highlighted subset are listed below - these are papers I played a large role i
 
 > **Claire Duvallet**, Sean M. Gibbons, Thomas Gurry, Rafael A. Irizarry, and Eric J. Alm. "Meta-analysis of gut microbiome studies identifies disease-specific and shared responses." _Nature Communications_ (2017). doi: [10.1038/s41467-017-01973-8](https://doi.org/10.1038/s41467-017-01973-8). Associated github: [cduvallet/microbiomeHD](https://github.com/cduvallet/microbiomeHD). Associated data:[zenodo record 840333](https://doi.org/10.5281/zenodo.797943).
 
-This was my primary PhD paper, and the work I'm proudest of by far. I re-analyzed 30 different microbiome datasets to figure out whether there were consistent associations with disease or if the same bugs showed up all the time. I'm super proud of how the paper is written, and that I also made all my data available and analyses and figures reproducible via github. I learned the majority of my transferrable technical skills from this work. 
+This was my primary PhD paper, and the work I'm proudest of from my PhD. I re-analyzed 30 different microbiome datasets to figure out whether there were consistent associations with disease or if the same bugs showed up all the time. I'm super proud of how the paper is written, and that I also made all my data available and analyses and figures reproducible via github. I learned the majority of my transferrable technical skills from this work. 
 
 > **Claire Duvallet**, Fuqing Wu, Kyle A. McElroy, Maxim Imakaev ... Eric J. Alm, and Mariana Matus. "Nationwide Trends in COVID-19 Cases and SARS-CoV-2 RNA Wastewater Concentrations in the United States." _ACS ES&T Water_ (2022). doi: [10.1021/acsestwater.1c00434](https://doi.org/10.1021/acsestwater.1c00434)
 
@@ -28,7 +28,7 @@ This perspective came from being asked "what is wastewater's lead time?" a milli
 
 > Wei Lin Lee ... **Claire Duvallet** ... Mariana Matus, Janelle Thompson, and Eric J Alm. "Quantitative SARS-CoV-2 alpha variant B.1.1.7 tracking in wastewater by allele-specific RT-qPCR." _Environmental Science & Technology Letters_ (2021). doi: [10.1021/acs.estlett.1c00375](https://doi.org/10.1021/acs.estlett.1c00375)
 
-Our collaborators in Singapore developed a qPCR-based assay to detect the then-new B.1.1.7 variant. We provided the samples & analysis to validate their method on real wastewater samples. This was before we knew that variants would be _a thing_, and before we had any idea that sequencing wastewater would work. Biobot actually launched this assay as a paid product for a hot sec, for which I served as the technical lead.
+Our collaborators in Singapore developed a qPCR-based assay to detect the then-new B.1.1.7 (alpha) variant. We provided the samples & analysis to validate their method on real wastewater samples. This was before we knew that variants would be _a thing_, and before we had any idea that sequencing wastewater would work. Biobot actually launched this assay as a paid product for a hot sec, for which I served as the technical lead.
 
 > Jill S McClary-Gutierrez ... **Claire Duvallet** ... Alexandria B Boehm, Rolf U Halden, Kyle Bibby, Jeseth Delgado Vela. "Standardizing data reporting in the research community to enhance the utility of open data for SARS-CoV-2 wastewater surveillance." _Environmental Science: Water Research & Technology_ (2021). doi: [10.1039/D1EW00235J](https://doi.org/10.1039/D1EW00235J)
 
@@ -72,15 +72,9 @@ _[Blog post]_ **Claire Duvallet**. "[Building a new data visualization: from bas
 
 _[White paper]_ Scott Olesen, Cristin Young, **Claire Duvallet**. "[The Effect of Septic Systems on Wastewater-Based Epidemiology](/files/BIOBOT_WHITEPAPER_EFFECT_OF_SEPTIC_V01-1.pdf)." _[Biobot Analytics](https://biobot.io/science/)._ (2022)
 
-_[Tutorial]_ **Claire Duvallet**. "[Updating your qiime2 plugin](https://dev.qiime2.org/latest/tutorials/updating-plugin/)." _QIIME 2 developer docs._ (2019).
-
 _[Blog post]_ **Claire Duvallet**. "[Scientific discovery from a clinical study: surprises from the lung and stomach microbiomes.](https://go.nature.com/30rx4VZ)" _Nature Microbiology Community Forum._ May 2019.
 
 _[Tutorial]_ **Claire Duvallet** and Mehrbod Estaki. "[QIIME 2 for Experienced Microbiome Researchers](https://docs.qiime2.org/2018.11/tutorials/qiime2-for-experienced-microbiome-researchers/)." _QIIME 2 docs._ (2018).
-
-_[Tutorial]_ **Claire Duvallet**. "[Developing a plug-in for dummies](https://dev.qiime2.org/latest/tutorials/first-plugin-tutorial/)." _QIIME 2 developer docs._ (2018).
-
-_[Tutorial]_ **Claire Duvallet**. "[Publishing your plugin on conda](https://dev.qiime2.org/latest/tutorials/conda-tutorial/)." _QIIME 2 developer docs._ (2018).
 
 _[Blog post]_ **Claire Duvallet**. "[Fuzzy zeros in percentile normalization method to correct for batch effects](https://microbe.net/2018/06/04/fuzzy-zeros-in-percentile-normalization-method-to-correct-for-batch-effects/)." _microBEnet: the microbiology of the Built Environment network._ June 2018.
 
@@ -89,6 +83,11 @@ _[Blog post]_ **Claire Duvallet**. "[Beyond dysbiosis: disease-specific and sha
 _[Dataset]_ **Claire Duvallet**, Sean M. Gibbons, Thomas Gurry, Rafael A. Irizarry, and Eric J. Alm. (2017). MicrobiomeHD: the human gut microbiome in health and disease. _Zenodo_. doi: [10.5281/zenodo.797943](https://doi.org/10.5281/zenodo.797943)
 
 ## Software
+
+**scipeds**    
+PyPI package to facilitate working with IPEDS completions data.
+
+* Python package: [pypi.org/project/scipeds/](https://pypi.org/project/scipeds/) _(co-developer, maintainer)_
 
 **Percentile normalization**     
 Correcting batch effects in case-control microbiome studies. (_Gibbons et al., 2018_)
@@ -120,3 +119,43 @@ _[Blog post]_ **Claire Duvallet**. "[A Well-Kept Secret for Finding a Job post-P
 _[Blog post]_ **Claire Duvallet**. "[Learning to Engage in Deep Conversations](https://gradadmissions.mit.edu/blog/learning-engage-deep-conversations)." _MIT Graduate Admissions blog_ (2018).
 
 _[Resource]_ **Claire Duvallet** and Monika Avello. "[Graduate student support resources flowchart.](/files/2018-04-01-Grad-Support-Flowchart-MIT-Digital.pdf )" I and another student on [iREFS](http://refs.mit.edu/irefs/) created this flowchart to help graduate students find support at MIT.
+
+# Presentations
+
+## Oral presentations
+
+March 2023 - [HSPH Center for Communicable Disease Dynamics](https://ccdd.hsph.harvard.edu/) [ID Epi Seminar Series Spring 2023](https://ccdd.hsph.harvard.edu/id-epi-series-2023/). [Watch the recording](https://www.youtube.com/watch?v=2qSMnaCxtwc).
+
+Oct. 2022 - [MIT Microbiome Club](https://microbiome.mit.edu/for-students/microbiome-club/) Industry Seminar. [slides](https://docs.google.com/presentation/d/1inDvR_37z8WoJL6KgYkZJ2h2o5b4HjZO/edit?usp=sharing&ouid=117483086270961116247&rtpof=true&sd=true)
+
+Mar. 2022 - "Supporting a nationwide Covid-19 wastewater monitoring program." WEF Public Health and Water Conference, Wastewater Disease Surveillance Summit. [slides](https://docs.google.com/presentation/d/1ybiyU-GHttMIEuhp4eN1e_aVt5thkax_/edit?usp=sharing&ouid=117483086270961116247&rtpof=true&sd=true)
+
+June 2021 - [Boston Society of Civil Engineers](https://www.bsces.org/about/special-funds/john-r-freeman-fund-167) 2021 Freeman Lecture.
+
+May 2021 - "Wastewater analysis to understand community consumption of opioids." [EAPCCT](https://www.eapcct.org/) 2021: Toxicology 2.0. [slides](https://docs.google.com/presentation/d/1i31vfd8lZHAi6LRjOGtv4qntgxHG4lVl/edit?usp=sharing&ouid=117483086270961116247&rtpof=true&sd=true)
+
+Aug. 2019 - "24-hour multi-omics analysis of residential sewage reflects human activity and informs public health." American Chemical Society National Meeting. Wastewater-Based Epidemiology: Opportunities, Challenges & Applications to Public Health & Safety.
+
+Apr. 2019 - "Intro to microbiome data visualization." Cornell University 2019 Microbiome Hackathon: [Microbiome Hack](http://microbiomehack.org). Slides: [cduvallet.github.io/mbiome-data-viz/](https://cduvallet.github.io/mbiome-data-viz/)
+
+Feb. 2019 - "Tips, tricks, and philosophies on computational work." Alm lab summit. Slides: [cduvallet.github.io/phdchat-philosophies/](https://cduvallet.github.io/phdchat-philosophies/)
+
+Nov. 2018 - "Framework for rational donor selection in fecal microbiota transplant clinical trials." [International Conference on Microbiome Engineering](https://www.aiche.org/sbe/conferences/microbiome-engineering/2018).
+
+May 2018 - "Distribution-based methods to increase power and reduce redundancy in microbiome data." Teaching and Developing QIIME 2 Workshop. ([abstract](https://docs.google.com/document/d/1AJS6E6zKC3vB87L6lE3jkbEnqKKbmAUklx2LNP5xn0k/edit?disco=AAAAB30XTS8&ts=5ae86df5#heading=h.nu9k79xrnqy2))
+
+Mar. 2018 - "Meta-analysis to identify consistent disease-associated microbiome shifts." [MIT-Harvard Microbiome Symposium](https://microbiome2018.wordpress.com/).
+
+Feb. 2018 - "Aspiration changes relationships in the aerodigestive microbiome." [Bioengineering and Toxicology Seminar](https://be.mit.edu/news-events/bats)   
+
+Oct. 2017 - "Meta-analysis to identify consistent disease-associated microbiome shifts." [MIT Department of Biological Engineering Retreat](http://be-retreat.mit.edu/).
+
+Oct. 2016 - "The human gut microbiome in health and disease." [Bioengineering and Toxicology Seminar](https://be.mit.edu/news-events/bats)   
+
+## Poster presentations
+
+Mar. 2018 - "Meta-analysis to identify consistent disease-specific and shared responses." [MIT-Harvard Microbiome Symposium](https://microbiome2018.wordpress.com/). [pdf](/files/2018-03-21.symposium_poster.pdf)
+
+Mar. 2018 - "Meta-analysis of gut microbiome studies identifies disease-specific and shared responses." [Women in Data Science Cambridge](https://www.widscambridge.org/). [pdf](/files/2017-10-10.be_retreat_poster.pdf)
+
+Jan. 2018 - "Meta-analysis of gut microbiome studies identifies disease-specific and shared responses." [Pacific Symposium on Biocomputing](https://psb.stanford.edu/). [pdf](/files/2017-10-10.be_retreat_poster.pdf)
