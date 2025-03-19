@@ -15,8 +15,6 @@ _Mining the human microbiome for clinical insight_; [thesis](https://www.dropbox
 
 **Columbia University**, B.S. in Biomedical Engineering (2013)   
 
-James Bowie High School, Austin, TX (2009)
-
 ***
 
 # Professional Experience
