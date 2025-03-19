@@ -25,20 +25,22 @@ James Bowie High School, Austin, TX (2009)
 _Scientist, STEM_
 
 - Analyze US education data (IPEDS completions) to develop novel metrics and data visualization approaches for understanding underrepresentation in STEM fields across higher education and within individual institutions.
-- Develop Python package to facilitate working with IPEDS data.
+- Develop Python package [scipeds](https://pypi.org/project/scipeds/) to facilitate working with IPEDS data.
 - Investigate opportunities and approaches to reduce calculus' role as a barrier to STEM in US higher education.
-- Launch communication coaching program for early-stage founders leading non-profit initiatives in STEM Equity and Education (in collaboration with Founder to Leader).
+- Launch communication coaching program for early-stage founders leading non-profit initiatives in STEM Equity and Education (in collaboration with [Founder to Leader](https://www.foundertoleader.com/)).
 - Work with Chief Scientific Officer and Strategic Advisors to set Science for America's direction in STEM Equity and Education.
 - Define internal team strategy, manage Science for America fellows, and establish positive and collaborative culture within Science for America.
 
 **Freelance consulting** (2023-present)
-_Computational biology consultant & technical advisor, Skkellie LLC_
+_Computational biologist, data scientist, and technical advisor, Skkellie LLC_
 
+- Analyze New Hampshire 2024 election results to evaluate the impact of non-partisan voter engagement programs for a variety of partner organizations. _Wheelhouse Web Solutions_
+- Serve as strategic advisor to the Director of Engineering, with a specific focus on developing the company's data science function. _Concerto Biosciences_
 - Develop pipeline and interactive visualizations to support design and evaluation of siRNA candidates for provided gene targets. (Python, make, Dash, Plotly). _Robigo_
 - Identify hundreds of putative retrotransposons by searching for matches to a known retrotransposon across a large variety of taxonomies. (Python, ElasticBLAST, blast WGS, Nextflow, AWS Batch). _Diamond Age Data Science, subcontractor_
 - Audit current practices and provide strategic recommendations for code versioning, environment management, and knowledge sharing within early-stage computational team. _Plonts_
 - Download thousands of bacterial genomes and perform gene annotations with DRAM to develop a database supporting product development R&D. (Python & Biopython; AWS EC2, S3, and Athena). _Plonts_
-- Serve as strategic advisor to the Director of Engineering, with a specific focus on developing the company's data science function. _Concerto Biosciences_
+
 
 **Biobot Analytics** (2019-2023)  
 _Founding Staff Data Scientist (Nov 2022 - present)  
