@@ -4,13 +4,13 @@ permalink: /consulting/
 author_profile: true
 ---
 
-I am available for consulting for early-stage startups. If you're interested in exploring if there's a fit, email me at cduvallet@gmail.com and we'll talk!
+I am available for part-time consulting, with a focus on early-stage startups. If you're interested in exploring if there's a fit, email me at cduvallet@gmail.com and we'll talk!
 
 ## Hiring support 
 
 Hiring effectively is one of the most important things an early startup needs to do. 
 
-I can help you develop hiring processes that support your hiring strategy. I'm also available to help you with the actual hiring: taking phone screens, serving on interview panels, etc. I'm skilled at evaluating data scientists, computational scientists (biologists, chemists, epidemiologists, etc), software engineers, research scientists, people managers, and higher-level leaders. You can read about my hiring approaches on [my substack](https://claireduvallet.substack.com/t/hiring).
+I can help you develop hiring processes that support your hiring strategy. I'm skilled at evaluating data scientists, computational scientists (biologists, chemists, epidemiologists, etc), software engineers, research scientists, people managers, and higher-level leaders. You can read about my hiring approaches on [my substack](https://claireduvallet.substack.com/t/hiring).
 
 ## Early employee peer coach & advisor
 
@@ -32,6 +32,6 @@ Depending on your company's domain, I can likely serve as an early technical lea
 
 I can also provide IC support to develop schemas, process diagrams, and other critical documentation. 
 
-## Computational biology & bioinformatics
+## Computational biology, bioinformatics, and data science
 
-I also provide computational biology / bioinformatics services. Given my limited availability (5-10 hours per week), I'm best suited for short-term projects that have a clear goal or deliverable, or longer-term projects that are not company-critical. I find myself adding the most value to projects where the internal team is leading the scientific direction and I implement some sort of (usually scrappy) pipeline to make their ideas real.
+I also provide computational biology, bioinformatics, and data science services. Given my limited availability (5-10 hours per week), I'm best suited for short-term projects that have a clear goal or deliverable, or longer-term projects that are not company-critical. I find myself adding the most value to projects where the internal team is leading the scientific direction and I implement some sort of (usually scrappy) pipeline to make their ideas real.
