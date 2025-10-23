@@ -13,7 +13,7 @@ I'm excited about companies working on **existential problems** or focused on **
 My ideal company:
 
 - impacts society through public health, climate, or via some other population-level impact
-- harnesses computational biology and 'omics data to achieve impact (ideally)
+- harnesses computational biology, 'omics, or other fun/large/messy data to achieve impact
 - preferentially works in areas with large disparities, and endeavours to reduce them
 - centers its values in every aspect of the scientific work it does
 
@@ -21,7 +21,7 @@ Some general areas that interest me include climate, public health, social impac
 
 In terms of **disease focus**, I find myself gravitating toward infectious disease and chronic diseases that affect large numbers of people, and am usually uninterested in oncology. Interestingly, personalized medicine companies are a mixed bag - if they're focused on diseases that impact a lot of people, then I'm pumped! 
 
-Additionally, I've really enjoyed working at a company that has an actual product out in the world that people use, and think that my experience & skillset would transfer well to a company creating scientific consumer products.
+Additionally, I've really enjoyed working at a company that has an actual product out in the world that people use, and think that my experience & skillset transfers well to a company creating scientific consumer products.
 
 ## Life & culture
 
@@ -30,8 +30,7 @@ I care a lot about company culture, and would love to join an organization where
 I'm also on a journey of discovering how work fits into my life (rather than vice versa, which was my MO for many years).
 I'm very intrigued by companies with legitimate commitments to work-life balance, and would consider changing roles for a company with a 4-day workweek at 100% salary, even if I'm not actively looking for a change.
 
-I'm also based in rural New Hampshire with no intention to relocate, so I'm only interested in remote roles. (West coast-based companies are fine.)
-I'm happy to consider hybrid roles in the Greater Boston area (1x/week max), but probably wouldn't change jobs for anywhere that doesn't have flexibility.
+I'm based in Cambridge and am happy with hybrid roles, but am not interested in full-time on-site roles.
 
 ## Roles
 

@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Scientist at [Science for America](https://www.scienceforamerica.org/) (SfA) working to identify and support game-changing solutions to improve STEM education.
+I'm currently a Scientist at [Science for America](https://www.scienceforamerica.org/) (SfA) working to identify and support game-changing solutions in STEM Equity and Education.
 
 Before SfA, I was the founding data scientist at [Biobot Analytics](www.biobot.io), a startup transforming sewers into public health observatories.
 In my role, I provided high-level technical feedback on a variety of data science and software engineering projects, served as a key subject matter expert on wastewater-based epidemiology within the company and on external calls, and was the technical point-person for our federal contracts with HHS and CDC.
