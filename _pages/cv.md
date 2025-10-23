@@ -32,7 +32,7 @@ _Scientist, STEM_
 - Define internal team strategy, manage Science for America fellows, and establish positive and collaborative culture within Science for America.
 
 **Freelance consulting** (2023-present)
-_Computational biology consultant & technical advisor, Skkellie LLC_
+_Computational biology & data science consultant, technical advisor_
 
 - Develop pipeline and interactive visualizations to support design and evaluation of siRNA candidates for provided gene targets. (Python, make, Dash, Plotly). _Robigo_
 - Identify hundreds of putative retrotransposons by searching for matches to a known retrotransposon across a large variety of taxonomies. (Python, ElasticBLAST, blast WGS, Nextflow, AWS Batch). _Diamond Age Data Science, subcontractor_
