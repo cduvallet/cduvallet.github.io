@@ -25,15 +25,16 @@ James Bowie High School, Austin, TX (2009)
 _Scientist, STEM_
 
 - Analyze US education data (IPEDS completions) to develop novel metrics and data visualization approaches for understanding underrepresentation in STEM fields across higher education and within individual institutions.
-- Develop Python package to facilitate working with IPEDS data.
+- Develop Python package [scipeds](https://docs.scipeds.org/) to facilitate working with IPEDS data.
+- Launch STEM Futures, a communication coaching program for social entrepeneurs leading initiatives in STEM Equity and Education (in collaboration with Founder to Leader and Thinkubator Media).
 - Investigate opportunities and approaches to reduce calculus' role as a barrier to STEM in US higher education.
-- Launch communication coaching program for early-stage founders leading non-profit initiatives in STEM Equity and Education (in collaboration with Founder to Leader).
 - Work with Chief Scientific Officer and Strategic Advisors to set Science for America's direction in STEM Equity and Education.
 - Define internal team strategy, manage Science for America fellows, and establish positive and collaborative culture within Science for America.
 
-**Freelance consulting** (2023-present)
+**Freelance consulting** (2023-present)   
 _Computational biology & data science consultant, technical advisor_
 
+- Ingest data from various public sources (Census, CDC WONDER, FBI Crime Explorer, etc) to power impact tracking and portfolio monitoring dashboards for a large foundation. Lead a team of two performing internal audit of third-party private credit bureau data supporting a veteran-focused financial health data product. Provide strategic input on data science team and platform development, and serve as bridge between software engineering, product, and policy / subject matter expert teams. _Equity Quotient_
 - Develop pipeline and interactive visualizations to support design and evaluation of siRNA candidates for provided gene targets. (Python, make, Dash, Plotly). _Robigo_
 - Identify hundreds of putative retrotransposons by searching for matches to a known retrotransposon across a large variety of taxonomies. (Python, ElasticBLAST, blast WGS, Nextflow, AWS Batch). _Diamond Age Data Science, subcontractor_
 - Audit current practices and provide strategic recommendations for code versioning, environment management, and knowledge sharing within early-stage computational team. _Plonts_
