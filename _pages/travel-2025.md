@@ -4,6 +4,61 @@ permalink: /travel25/
 author_profile: true
 ---
 
+## [Nov 22, Tucson, AZ -> Phoenix, AZ -> Joshua Tree, CA](#nov22)
+
+Our last day! Started the morning with a stroll through the airbnb's _amazing_ yard, such a beautiful desert landscape with so many cactuses, desert trees, and artfully placed rocks. Big fan.
+
+<img src="/images/2025/PXL_20251122_163012814.jpg" width="45%">
+
+Got some matcha and then made a quick stop at Saguaro National Park, which was only twenty minutes from the airbnb! Did a nice short trail and then feasted our eyes on the loop drive back to the entrance. So many saguaros in so many funny shapes! Again, big fan of the desert. So fun, so pretty.
+
+<img src="/images/2025/PXL_20251122_180509960.jpg" width="45%">
+
+Dropped Megan off at the airport (so sad), and then headed straight to Joshua Tree to meet my family for Thanksgiving.
+
+<img src="/images/2025/PXL_20251122_224324999.jpg" width="45%">
+
+All in all a really great road trip this year! It was really nice to have Megan's company, and I'm also looking forward to doing it solo on the way back. Both great experiences, just different. :)
+
+Now I just need to get a van so that I don't have to book all the airbnbs in advance and I have more flexibility in where I go...
+
+## [Nov 21, Alamogordo, NM -> Tucson, AZ](#nov21)
+
+Got up before Megan to take Ellie out, since I knew it might take a while. Found some grass by a church, not good enough. Walked around back to where there were trees and sticks that I thought might do it, nope. Walked a little more and found some much more plush grass that was almost certainly not technically public access but walked around it anyway. She finally peed and pooped, what a queen.
+
+The main event for today was White Sands National Park, my favorite stop from last year's road trip. It did not disappoint! We did the dune nature trail near the entrance and then the Alkali Flats loop which I had done last year. Very interesting how different the landscapes are between the two spots. Also, I remember alkali flats taking me 3-4 hours last year but it only took us about two this year. The sand was much firmer (I think it'd rained recently) and it was much less hot - a truly very pleasant hike indeed!
+
+<img src="/images/2025/PXL_20251121_211024630.jpg" width="25%"> <img src="/images/2025/PXL_20251121_193000965.jpg" width="35%">
+<img src="/images/2025/PXL_20251121_212921472.MP.jpg" width="35%">
+
+We broke up our 5 hour drive to Tucson with dinner at a dog-friendly tex mex restaurant in the middle of nowhere, where everyone in the restaurant seemed to know at least some of the staff. I guess when there's only one place to eat in a tiny town, it makes sense that folks would know each other.
+
+<img src="/images/2025/PXL_20251122_010121905.jpg" width="45%">
+
+Made it to our AirBnB in Tucson and beelined to the hot tub. So pleasant to sit in the warm hot tub with the cold desert breeze cooling us off, breathing crisp clear air, and staring up at the beautiful starry night sky with moonlight-lit cloud formations. Blissful.
+
+## [Nov 20, Amarillo, TX -> Alamogordo, NM](#nov20)
+
+Got up, took Ellie on a short walk, had breakfast and figured out our last night's plans. 
+
+Then we went to Palo Duro Canyon for a quick hike. Asked the ranger at the entrance what he recommended, went there and turned it into a bigger loop. So fun, so beautiful - love the desert. Also love doing zero planning and just taking the recommendation given to us, not a maximizer over here!
+
+<img src="/images/2025/PXL_20251120_171803925.jpg" width="45%">
+
+Grabbed burritos back in Amarillo on our way to Cadillac Ranch. Got to the Cadillacs, checked them out very quickly (long enough to leave our mark!), and then started getting poured on. Ran back to the car where Ellie shook out many times splashing the whole inside. Finally, breaking my car in with my own smells.
+
+<img src="/images/2025/PXL_20251120_195527142.jpg" width="30%"> <img src="/images/2025/PXL_20251120_195846559.jpg" width="30%">  <img src="/images/2025/PXL_20251120_200453389.jpg" width="30%"> 
+
+
+Drove 3.5 hours to Roswell while listening to podcasts about Roswell. For some reason I remember being very compelled when we visited as a kid (maybe the reason was that my critical thinking faculties weren't fully developed), but this time around I don't see why it's anything but a weather balloon (I mean I do see where the doubt comes in what with the cover up and the people swearing it was aliens). The UFO museum was dog friendly so we went in for fifteen min before it closed. I'm very glad we listened to the podcasts because it was not very informative lol. 
+
+<img src="/images/2025/PXL_20251120_234448388.MP.jpg" width="45%">
+
+Then back in the car for 2 hours to Alamogordo. Got some pizza and made it to our maximalist gold studded Airbnb. Ellie did not bathroom at all (and she hadn't pooped in the morning), first time she's given me difficulty on this trip. Annoying, but also so glad it hasn't been every day like last year.
+
+<img src="/images/2025/PXL_20251121_042725357.jpg" width="45%">
+
+
 ## [Nov 19, Tulsa, OK -> Amarillo, TX](#nov19)
 
 Another great road trip day. Started the day with chill breakfast at Christina's while 
