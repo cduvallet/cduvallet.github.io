@@ -21,6 +21,8 @@ In terms of **disease focus**, I find myself gravitating toward infectious disea
 
 Additionally, I've really enjoyed working at a company that has an actual product out in the world that people use, and think that my experience & skillset transfers well to a company creating scientific consumer products.
 
+I'm currently extremely interested in the burgeoning non-profit scientific organization space - if you want to start an [FRO](https://fas.org/publication/focused-research-organizations-a-new-model-for-scientific-research/) and think I could help, please reach out!
+
 ## Life & culture
 
 I care a lot about company culture, and would love to join an organization where I can be part of shaping the organizational culture.
@@ -50,7 +52,5 @@ That said, I do love building teams: figuring out what roles are needed, hiring 
 
 I don't fully know where I want my career to eventually take me, but two enticing options are as a VP of Data or CTO-like character at an exciting impact-focused technical company, or a freelancer living out of my van working on cool projects at cool companies.
 I'm interested in opportunities that contribute to either of those career paths, though I'm currently leaning much more toward freelancer than executive.
-
-I'm currently extremely interested in the burgeoning non-profit scientific organization space - if you want to start an [FRO](https://fas.org/publication/focused-research-organizations-a-new-model-for-scientific-research/) and think I could help, please reach out!
 
 I could see myself eventually transitioning to a pure data science role (i.e. no computational biology) for the right company and mission.
