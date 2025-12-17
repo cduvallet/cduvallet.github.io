@@ -14,7 +14,7 @@ My ideal company:
 - harnesses computational biology, 'omics, or other fun/large/messy data
 - preferentially works in areas with large disparities, and endeavours to reduce them
 
-Some general areas that interest me include public health, nutrition, agriculture, climate, reproducible research, AI x bio, and progressive politics.
+Some general areas that interest me include public health, nutrition, agriculture, climate, open science, and progressive politics.
 
 In terms of **disease focus**, I find myself gravitating toward infectious disease and chronic diseases that affect large numbers of people, and am usually uninterested in oncology. I'm pretty interested in personalized medicine, but much more so if it's focused on conditions that impact a lot of people.
 
