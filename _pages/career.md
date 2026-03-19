@@ -14,7 +14,7 @@ My ideal company:
 - harnesses computational biology, 'omics, or other fun/large/messy data
 - preferentially works in areas with large disparities, and endeavours to reduce them
 
-Some general areas that interest me include public health, nutrition, agriculture, climate, open science, and progressive politics.
+Some general areas that interest me include public health, infectious disease, nutrition, agriculture, climate, open science, and progressive politics.
 
 In terms of **disease focus**, I find myself gravitating toward infectious disease and chronic diseases that affect large numbers of people, and am usually uninterested in oncology. I'm pretty interested in personalized medicine, but much more so if it's focused on conditions that impact a lot of people.
 
@@ -37,7 +37,7 @@ My favorite analogy for how I excel as a tech lead is that I am like a cave guid
 
 I also like serving as an early-stage, jack-of-all-trades technical employee - I really enjoyed being in this position at Biobot, and feel that I did a good job establishing the operational, data, software, and cultural foundations that helped our company scale successfully. Even though I have very high standards for my work, I'm also able to gauge when "good enough" is the right path to take, and I like thinking ahead to how those "good enough" solutions might be set up to  scale with the business as it grows.
 
-Although I am a skilled people manager (I have two years of management experience, enjoy managing small teams, and read [Ask a Manager](https://www.askamanager.org/) religiously) and am happy to manage folks, growing as a manager is not a current priority for me.
+Although I am a skilled people manager (I have a few years of management experience, enjoy managing small teams, and read [Ask a Manager](https://www.askamanager.org/) religiously) and am happy to manage folks, growing as a manager is not a current priority for me.
 That said, I do love building teams: figuring out what roles are needed, hiring to fill those roles, establishing a strong and positive team culture, and growing a team to make myself redundant.
 
 ## Future
@@ -52,6 +52,6 @@ I could see myself eventually transitioning to a pure data science role (i.e. no
 I care a lot about company culture, and would love to join an organization where I can be part of shaping the organizational culture.
 
 I'm also on a journey of discovering how work fits into my life (rather than vice versa, which was my MO for many years).
-I'm very intrigued by companies with legitimate commitments to work-life balance, and would consider changing roles for a company with a 4-day workweek at 100% salary, even if I'm not actively looking for a change.
+I'm very intrigued by companies with legitimate commitments to work-life balance, and especially those with a 4-day workweek.
 
 I'm based in Cambridge and am happy with hybrid roles, but am less interested in full-time on-site roles.
