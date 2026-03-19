@@ -53,3 +53,5 @@ The best part of becoming tourist fluent, though, is how few words it takes to c
 I'm sure I'm missing many, but this is at least a good start! Go forth and become tourist fluent, and report back what else you found useful. :)
 
 _Thanks to my friend Rose for co-brainstorming this list with me!_
+
+_Edit: woops, looks like [I've already written about this before](/posts/2019/04/tourist-fluent)! Ah well, it was a fun refresher._
