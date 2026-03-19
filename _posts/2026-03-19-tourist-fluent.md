@@ -30,10 +30,11 @@ Also some of the other basics:
 - **Have**: useful to help you find what you need. For example, "do you have X" can just be phrased as "have X?" Or you can use it to fend off people trying to sell you things with a quick "have already".
 - **Go**: useful to get around, so you can ask for example "does the bus go to X?" ("bus go X?")
 - **How much** and **expensive**: useful to navigate markets, shopping, and negotiating. It's important also to learn the inflections that turn "expensive" from a confrontational word to one that is more fun and friendly. You want to go for "wooooof, expensive ruh roh" rather than "ugh that is too expensive I'm leaving" so that there's an opening for negotiation. 
-- **Excuse me**: good for low-key apologizing if you, for example, bump into people in the subway. The same phrase can also often be used to get someone's attention, which can be useful in shops or restaurants.
+- **Sorry**: learn the word for a low-key apology, for example what you'd say when bump into people in the subway. Also useful when you make a fool or yourself as the tourist buffoon that you are.
+- **Excuse me**: most languages have a phrase or way to get people's attention. Learn what this is to get better service at shops and restaurants, and also show that you did your basic research into local customs rather than just copy-paste translating from English.
 - **Please**: a short workaround to having to learn how to ask for something. Instead of saying "could I have X?" you can usually just get away with "please X" -- adding the please lets you keep it short without sounding like a demanding douche.
 - **Yes** and **no**, self-explanatory.
-- Also make sure to learn some critical nouns like: bathroom, hotel, food, bus/train/taxi/whatever transportation you'll use, etc. 
+- Also make sure to learn some critical nouns like: bathroom, hotel, food, bus/train/taxi/whatever transportation you'll use, water, etc. 
 
 The best part of becoming tourist fluent, though, is how few words it takes to connect with people:
 
