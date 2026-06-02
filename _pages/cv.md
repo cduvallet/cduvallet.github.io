@@ -35,6 +35,7 @@ _Scientist, STEM Equity and Education_
 _Computational biology & data science consultant, technical advisor_
 
 - Ingest and process public data (Census, CDC WONDER, FBI Crime Explorer, etc.) to power impact-tracking and portfolio-monitoring dashboards for a large foundation. Lead a two-person team auditing third-party credit bureau data supporting a veteran-focused financial health product. Advise on data science strategy and platform development, serving as liaison between engineering, product, and policy teams. _Equity Quotient_
+- Architect and implement an event-driven observability system for a metagenomic biosurveillance pipeline, tracking job statuses across processing steps and sending results to a queryable PostgreSQL database. (Python, Terraform, AWS RDS, Lambda, Batch, EventBridge). _SecureBio_   
 - Develop pipeline and interactive visualizations to support design and evaluation of siRNA candidates for provided gene targets. (Python, make, Dash, Plotly). _Robigo_
 - Identify hundreds of putative retrotransposons by searching for matches to a known retrotransposon across a large variety of taxonomies. (Python, ElasticBLAST, blast WGS, Nextflow, AWS Batch). _Diamond Age Data Science, subcontractor_
 - Audit current practices and provide strategic recommendations for code versioning, environment management, and knowledge sharing within early-stage computational team. _Plonts_
